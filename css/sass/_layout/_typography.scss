@@ -1,3 +1,119 @@
-html, body {
-  font-family: test;
+@font-face {
+    font-weight: normal;
+    font-style: normal;
+    font-family: 'franchiseregular';
+    src: url('/typefaces/franchise-bold-webfont.eot');
+    src: url('/typefaces/franchise-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/typefaces/franchise-bold-webfont.woff') format('woff'),
+         url('/typefaces/franchise-bold-webfont.ttf') format('truetype'),
+         url('/typefaces/franchise-bold-webfont.svg#franchiseregular') format('svg');
 }
+
+html, 
+body {
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Titillium Web', sans-serif;
+	line-height: 22px;
+}
+
+h1, .h1, 
+h2, .h2,
+h5, .h5 {
+	font-weight: normal;
+	font-family: "franchiseregular", Impact, "Arial Narrow", sans-serif; // add impact and arial narrow
+}
+
+h1, .h1, 
+h2, .h2,
+h3, .h3,
+h4, .h4 {
+	text-transform: uppercase;
+}
+
+h3, .h3,
+h6, .h6 {
+    font-weight: 200;
+}
+
+h1, .h1 {
+    font-size: 114px;
+    line-height: 88px;
+}
+
+h2, .h2,
+h3, .h3 {
+    font-size: 51px;
+    line-height: 44px;
+}
+
+h4, .h4 {
+    font-weight: 300; // TODO: test this
+    font-size: 22px;
+    line-height: 22px; // TODO: test this
+}
+
+h5, .h5 {
+    font-size: 22px;
+}
+
+h6, .h6 {
+    margin-bottom: 22px;
+    font-weight: 200;
+    font-style: italic;
+    font-size: 15px;
+}
+
+blockquote {
+    font-style: italic;
+    font-size: 22px;
+    line-height: 44px;
+}
+
+strong {
+    font-weight: 700;
+}
+
+
+// MARGINS
+h1, h2, h3, h4, h5, h6, p, blockquote {
+	margin: 0 0 22px;
+}
+
+hgroup * {
+	margin-bottom: 0;
+}
+
+
+
+
+
+// HELPER CLASSES 
+
+.intro {
+    font-size: 22px;
+    line-height: 44px;
+}
+
+
+// colors
+.gold {
+	color: $gold;
+}
+
+.red {
+	color: $red;
+}
+
+.green {
+	color: $green;
+}
+
+.purple {
+	color: $purple;
+}
+
+.red {
+	color: $red;
+}
+
