@@ -412,7 +412,8 @@ body {
   font-weight: 300;
   font-size: 15px;
   font-family: 'Titillium Web', sans-serif;
-  line-height: 22px; }
+  line-height: 22px;
+  color: #222222; }
 
 h1, .h1,
 h2, .h2,
@@ -485,3 +486,100 @@ hgroup * {
 
 .red {
   color: #f94d42; }
+
+.lightgray {
+  color: #f6f6f6; }
+
+.darkgray {
+  color: #b3b3b3; }
+
+body {
+  padding: 22px; }
+
+.logo {
+  height: 154px;
+  margin: 0 auto;
+  display: block; }
+
+header {
+  *zoom: 1;
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 22px;
+  border-bottom: 3px solid #222222; }
+  header:before, header:after {
+    content: " ";
+    display: table; }
+  header:after {
+    clear: both; }
+  header hgroup {
+    display: block;
+    float: left;
+    margin-right: 2.35765%;
+    width: 31.76157%; }
+    header hgroup:last-child {
+      margin-right: 0; }
+    header hgroup .with {
+      -webkit-transform: rotate(-90deg);
+      -moz-transform: rotate(-90deg);
+      -ms-transform: rotate(-90deg);
+      -o-transform: rotate(-90deg);
+      transform: rotate(-90deg);
+      margin-top: 33px;
+      float: left; }
+    header hgroup .video-cta {
+      width: 200px;
+      margin: 22px 0;
+      height: 110px;
+      background: #222222;
+      position: relative; }
+    header hgroup .video-cta:before {
+      content: '';
+      width: 66px;
+      height: 66px;
+      border-radius: 100px;
+      background: #f94d42;
+      display: block;
+      position: absolute;
+      top: 22px;
+      left: 67px; }
+    header hgroup .video-cta:after {
+      content: '';
+      height: 0;
+      width: 0;
+      border-color: transparent;
+      border-style: solid;
+      border-width: 22px;
+      border-left-color: white;
+      position: absolute;
+      top: 39px;
+      left: 92px;
+      border-top-width: 15px;
+      border-bottom-width: 15px; }
+    header hgroup .simmonds,
+    header hgroup .video-cta,
+    header hgroup .watch {
+      margin-left: 64px; }
+  header .wayne-hero-image {
+    display: block;
+    float: left;
+    margin-right: 2.35765%;
+    width: 40.29137%;
+    display: block;
+    margin-top: -100px;
+    margin-bottom: -22px;
+    margin-left: -44px;
+    position: relative;
+    z-index: 100; }
+    header .wayne-hero-image:last-child {
+      margin-right: 0; }
+  header aside {
+    display: block;
+    float: left;
+    margin-right: 2.35765%;
+    width: 23.23176%;
+    margin-top: 44px;
+    margin-left: 44px; }
+    header aside:last-child {
+      margin-right: 0; }

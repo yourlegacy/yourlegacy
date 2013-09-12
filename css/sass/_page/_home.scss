@@ -1,0 +1,79 @@
+body {
+	padding: $base;
+}
+
+.logo {
+	height: $base * 7;
+	margin: 0 auto;
+	display: block;
+}
+
+header {
+	@include outer-container;
+	padding-bottom: $base;
+	border-bottom: 3px solid $black;
+
+	hgroup {
+		@include span-columns(4);
+
+		.with {
+			@include transform(rotate(-90deg));
+			margin-top: $base * 1.5;
+			//width: 40px;
+			float: left;
+		}
+
+		.video-cta {
+			width: 200px; 
+			margin: $base 0;
+			height: $base * 5;
+			background: $black;
+			position: relative;
+		}
+
+		.video-cta:before {
+			content: '';
+			width: 66px;
+			height: 66px;
+			border-radius: 100px;
+			background: $red;
+			display: block;
+			position: absolute;
+			top: $base;
+			left: 67px;
+		}
+
+		.video-cta:after {
+			content: '';
+			@include triangle($base * 2, $white, right);
+			position: absolute;
+			top: 39px;
+			left: 92px;
+			border-top-width: 15px;
+			border-bottom-width: 15px;
+		}
+
+		.simmonds, 
+		.video-cta, 
+		.watch {
+			margin-left: 64px;
+		}
+	}
+
+	.wayne-hero-image {
+		@include span-columns(5);
+		display: block;
+		margin-top: -100px;
+		margin-bottom: $base * -1;
+		margin-left: $base * -2;
+		position: relative;
+		z-index: 100;
+	}
+
+	aside {
+		@include span-columns(3);
+		margin-top: $base * 2;
+		margin-left: $base * 2;
+	}
+}
+
