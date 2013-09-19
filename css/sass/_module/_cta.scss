@@ -1,0 +1,76 @@
+.cta-container {
+	position: relative;
+
+	.cta-button {
+		text-decoration: none; 
+		padding: $base $base * 4;
+		background: $gold;
+		color: $white;
+		margin: $base 0 $base $base;
+		display: inline-block;
+	}
+
+	.cta:hover .cta-button {
+		background: $red;
+	}
+
+	.thumb {
+		width: 200px;
+		border: $black 1px solid;
+		position: absolute;
+		transition: 0.2s ease;
+		right: $base * 3;
+	}
+
+	.thumb-1 {
+		@include transform(rotate(15deg));
+	}
+	.thumb-2 {
+		@include transform(rotate(12deg));
+	}
+	.thumb-3 {
+		@include transform(rotate(9deg));
+	}
+	.thumb-4 {
+		@include transform(rotate(6deg));
+	}
+	.thumb-5 {
+		@include transform(rotate(3deg));
+	}
+	.thumb-6 {
+		//@include transform(rotate(0deg));
+	}
+
+	.cta:hover {
+		.thumb-1 {
+			@include transform(rotate(18deg));
+			right: $base * 3;
+			top: $base * 2;
+			z-index: 10;
+		}
+		.thumb-2 {
+			@include transform(rotate(12deg));
+			right: $base * 2.5;
+			top: $base * -1.5;
+		}
+		.thumb-3 {
+			@include transform(rotate(9deg));
+			right: $base * 0.5;
+			top: $base * 1;
+		}
+		.thumb-4 {
+			@include transform(rotate(6deg));
+			right: $base * 2.25;
+		}
+		.thumb-5 {
+			@include transform(rotate(3deg));
+			right: $base * 5;
+			top: $base * 1.25;
+		}
+		.thumb-6 {
+			right: $base * 3.5;
+			@include transform(rotate(6deg));
+		}
+	}
+}
+	

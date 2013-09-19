@@ -30,7 +30,8 @@ h5, .h5 {
 h1, .h1, 
 h2, .h2,
 h3, .h3,
-h4, .h4 {
+h4, .h4,
+h5, .h5, {
 	text-transform: uppercase;
 }
 
@@ -77,13 +78,17 @@ strong {
     font-weight: 700;
 }
 
+a {
+    color: $red;
+}
+
 
 // MARGINS
 h1, h2, h3, h4, h5, h6, p, blockquote {
 	margin: 0 0 $base;
 }
 
-hgroup * {
+hgroup *, .hgroup * {
 	margin-bottom: 0;
 }
 
@@ -114,6 +119,10 @@ hgroup * {
 
 .red {
 	color: $red;
+}
+
+.white {
+    color: $white;
 }
 
 .lightgray {
