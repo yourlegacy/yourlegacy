@@ -15,16 +15,24 @@ html,
 body {
 	font-weight: 300;
 	font-size: 15px;
-	font-family: 'Titillium Web', sans-serif;
 	line-height: $base;
 	color: $black;
 }
+
+body,
+p, 
+h3, .h3,
+h4, .h4,
+h6, .h6 {
+   font-family: 'Titillium Web', sans-serif;
+}
+
 
 h1, .h1, 
 h2, .h2,
 h5, .h5 {
 	font-weight: normal;
-	font-family: "franchiseregular", Impact, "Arial Narrow", sans-serif; // add impact and arial narrow
+	font-family: "franchiseregular", Impact, "Arial Narrow", sans-serif;
 }
 
 h1, .h1, 
@@ -132,3 +140,6 @@ hgroup *, .hgroup * {
 .darkgray {
 	color: $darkgray;
 }
+
+.testclass {color: black}
+/* note to self ! */

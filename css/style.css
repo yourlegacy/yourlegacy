@@ -411,9 +411,15 @@ html,
 body {
   font-weight: 300;
   font-size: 15px;
-  font-family: 'Titillium Web', sans-serif;
   line-height: 22px;
   color: #222222; }
+
+body,
+p,
+h3, .h3,
+h4, .h4,
+h6, .h6 {
+  font-family: 'Titillium Web', sans-serif; }
 
 h1, .h1,
 h2, .h2,
@@ -500,6 +506,10 @@ hgroup *, .hgroup * {
 .darkgray {
   color: #b3b3b3; }
 
+.testclass {
+  color: black; }
+
+/* note to self ! */
 .cta-container {
   position: relative; }
   .cta-container .cta-button {
@@ -814,3 +824,76 @@ section {
 
 .cta-container {
   border-bottom: 3px solid #222222; }
+
+.guide header {
+  *zoom: 1;
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto;
+  border-bottom: 3px solid #222222;
+  padding-bottom: 0; }
+  .guide header:before, .guide header:after {
+    content: " ";
+    display: table; }
+  .guide header:after {
+    clear: both; }
+  .guide header .logo {
+    margin-bottom: 22px; }
+  .guide header .buy-now {
+    display: block;
+    float: left;
+    margin-right: 2.35765%;
+    width: 57.35098%; }
+    .guide header .buy-now:last-child {
+      margin-right: 0; }
+    .guide header .buy-now hgroup {
+      margin-bottom: 22px;
+      width: 100%; }
+    .guide header .buy-now .button-col {
+      width: 45%;
+      display: block;
+      float: left;
+      margin-right: 5%; }
+  .guide header .wayne-hero-image {
+    display: block;
+    float: left;
+    margin-right: 2.35765%;
+    width: 40.29137%; }
+    .guide header .wayne-hero-image:last-child {
+      margin-right: 0; }
+.guide .pricing .pricing-item {
+  display: block;
+  float: left;
+  margin-right: 2.35765%;
+  width: 48.82117%;
+  border: 2px solid #222222;
+  margin-top: 22px;
+  padding: 22px 22px 0; }
+  .guide .pricing .pricing-item:last-child {
+    margin-right: 0; }
+  .guide .pricing .pricing-item ul {
+    list-style: none; }
+.guide .pricing .pricing-item-gold {
+  background: #b4882c; }
+.guide .pricing .pricing-item-red {
+  background: #f94d42; }
+.guide .pricing h2 {
+  text-align: center; }
+.guide .buy-now-button {
+  display: block;
+  padding: 11px 22px;
+  border: 2px solid #222222;
+  color: #222222;
+  text-align: center;
+  text-decoration: none;
+  line-height: 44px;
+  margin-bottom: 22px; }
+  .guide .buy-now-button strong {
+    display: block; }
+.guide .button-red {
+  background: #f94d42; }
+.guide .button-gold {
+  background: #b4882c; }
+.guide .button-black {
+  background: #222222;
+  color: white; }
