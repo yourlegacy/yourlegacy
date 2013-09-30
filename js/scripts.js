@@ -23,14 +23,17 @@ $(document).ready(function(){
 		$(".video-overlay").addClass('post');
 		$(".video-overlay").removeClass('pre');
 	});
+	
+	$( ".pre" ).click(function() {
+ 		$(".video-overlay").removeClass('play-me');
+	});
 
 	$( ".play-me" ).click(function() {
  		$(".video-overlay").removeClass('active');
- 		$(".video-overlay").toggleClass('pre');
+ 		$(".video-overlay").removeClass('pre');
   		videoInterview.play();
 	});
-	
-	$( ".play-me.pre" ).click(function() {
- 		$(".video-overlay").removeClass('play-me');
-	});
 });
+
+
+// fix bug of playing entire container in post 
