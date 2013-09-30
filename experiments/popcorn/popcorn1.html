@@ -1,0 +1,48 @@
+<html>
+<head>
+	<title>popcorn</title>
+	<link rel="stylesheet" href="/css/style.css">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="http://popcornjs.org/code/dist/popcorn-complete.min.js"></script>
+    <script>
+      // ensure the web page (DOM) has loaded
+      document.addEventListener("DOMContentLoaded", function () {
+ 
+           // Create a popcorn instance by calling the Youtube player plugin
+         var example = Popcorn.youtube(
+           '#video',
+           'http://www.youtube.com/watch?v=CxvgCLgwdNk' );
+ 
+         // add a footnote at 2 seconds, and remove it at 6 seconds
+         example.footnote({
+           start: 2,
+           end: 6,
+           text: "Pop!",
+           target: "footnotediv"
+         });
+ 
+         // play the video right away
+         example.play();
+
+         // example.ended({
+         // 	$("#footnotediv").addClass('Pop');
+         // 	console.log("tiny dancer");
+         // });
+
+		example.on('ended', function(){
+    		console.log('video has ended');
+    		$("body").addClass('pop');
+    	});
+
+      }, false);
+    </script>
+    <style>
+    .pop {background: gold;}
+    </style>
+</head>
+<body>
+	<h1>Popcorn + Youtube!</h1>
+    <div id="video" style="width: 360px; height: 300px;" ></div>
+    <div id="footnotediv"></div>
+</body>
+</html>
