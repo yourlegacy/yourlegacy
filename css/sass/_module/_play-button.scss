@@ -1,0 +1,24 @@
+.play-button {
+	position: relative;
+}
+
+.play-button:before {
+	//circle 
+	content: '';
+	width: 66px;
+	height: 66px;
+	border-radius: 100px;
+	background: $red;
+	display: block;
+}
+
+.play-button:after {
+	// play arrow
+	content: '';
+	@include triangle($base * 2, $white, right);
+	border-top-width: 15px;
+	border-bottom-width: 15px;
+	position: absolute;
+	top: 18px;
+	left: 25px;
+}

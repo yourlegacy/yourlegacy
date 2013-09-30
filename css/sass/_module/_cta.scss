@@ -1,16 +1,23 @@
+.cta-button {
+	text-decoration: none; 
+	padding: $base $base * 4;
+	background: $gold;
+	color: $white;
+	display: inline-block;
+}
+
+.cta-button:hover, .cta-button:focus {
+	background: $red;
+}
+
 .cta-container {
 	position: relative;
 
 	.cta-button {
-		text-decoration: none; 
-		padding: $base $base * 4;
-		background: $gold;
-		color: $white;
 		margin: $base 0 $base $base;
-		display: inline-block;
 	}
 
-	.cta:hover .cta-button {
+	.cta:hover .cta-button, .cta:focus .cta-button {
 		background: $red;
 	}
 
@@ -73,4 +80,5 @@
 		}
 	}
 }
-	
+
+//.cta-button 

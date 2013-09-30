@@ -1,0 +1,54 @@
+.video-container {
+	padding-bottom: $base;
+	border-bottom: $border;
+	position: relative;
+
+	.video-wrapper {	
+		position: relative;
+		padding-bottom: 54.25%;//41.3%;
+		padding-top: 22px;
+		height: 0;
+		margin: $base 0;
+
+		iframe {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+	}
+
+	.video-overlay {
+		position: absolute;
+		top: 0;
+		right: 0;
+		left: 0;
+		bottom: 0;
+		background: rgba($white,0.98);
+		display: none;
+	}
+	.video-overlay.active {
+		display: block;
+	}
+
+	.video-overlay.pre {
+		bottom: $base  * 5;
+		background: rgba($black,0.85);
+		margin-top: $base;
+	}
+
+	.video-overlay .pre-roll, 
+	.video-overlay .post-roll {
+		display: none;
+	}
+
+	.video-overlay.pre .pre-roll, 
+	.video-overlay.post .post-roll {
+		display: inline-block;
+	}
+
+	.hgroup {
+		@include span-columns(12);		
+	}
+}

@@ -46,28 +46,17 @@ header {
 			transition: 0.5s;
 		}
 		
-		.video-cta:before {
+		.play-button:before {
 			//circle 
-			content: '';
-			width: 66px;
-			height: 66px;
-			border-radius: 100px;
-			background: $red;
-			display: block;
 			position: absolute;
 			top: $base;
 			left: 67px;
 		}
 
-		.video-cta:after {
+		.play-button:after {
 			// play arrow
-			content: '';
-			@include triangle($base * 2, $white, right);
-			position: absolute;
 			top: 39px;
 			left: 92px;
-			border-top-width: 15px;
-			border-bottom-width: 15px;
 		}
 
 		.video-cta:hover {
@@ -105,36 +94,22 @@ header {
 		@include span-columns(3);
 		margin-top: $base * 2;
 		margin-left: $base * 2;
+
+		.h4 {
+			margin-bottom: 0;
+		}
+	}
+}
+
+
+.video-overlay {
+	.play-button {
+		@include transform(scale(1.5));
 	}
 }
 
 section {
 	@include outer-container;
-}
-
-.video-container {
-	padding-bottom: $base;
-	border-bottom: $border;
-
-	.video-wrapper {	
-		position: relative;
-		padding-bottom: 54.25%;//41.3%;
-		padding-top: 22px;
-		height: 0;
-		margin: $base 0;
-
-		iframe {
-			position: absolute;
-			top: 0;
-			left: 0;
-			width: 100%;
-			height: 100%;
-		}
-	}
-
-	.hgroup {
-		@include span-columns(12);		
-	}
 }
 
 .cta-container {
