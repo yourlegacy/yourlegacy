@@ -1,6 +1,0 @@
-name: Your New Jekyll Site
-pygments: true
-permalink: /:title
-prose:
-  rooturl: '_posts'
-  siteurl: 'http://yourlegacy.github.io/'
