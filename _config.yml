@@ -3,7 +3,6 @@ pygments: true
 permalink: /:title
 prose:
   rooturl: "_posts"
-  siteurl: "http://yourlegacy.github.io/"
   media: "prose_media"
   metadata:
     _posts:
