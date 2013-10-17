@@ -1,0 +1,27 @@
+name: Your New Jekyll Site
+pygments: true
+permalink: /:title
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://yourlegacy.github.io/'
+  metadata:
+    _posts:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "articles"
+    _posts/blog:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Apples"
+              value: "apples"
+            - name: "Bananas"
+              value: "bananas"
