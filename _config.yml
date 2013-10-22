@@ -6,32 +6,3 @@ prose:
   rooturl: "_posts"
   siteurl: "http://yourlegacy.github.io/"
   media: "prose_media"
-  metadata:
-    _posts:
-      - name: "category"
-        field:
-          element: "hidden"
-          value: "articles"
-       - name: "layout"
-        field:
-          element: "hidden"
-          value: "default"
-   _posts/blog:
-      - name: "category"
-        field:
-          element: "hidden"
-          value: "default"
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
