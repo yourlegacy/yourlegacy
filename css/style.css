@@ -515,10 +515,10 @@ hgroup *, .hgroup * {
 .darkgray {
   color: #b3b3b3; }
 
-.testclass {
-  color: black; }
+.highlight-black {
+  display: inline-block;
+  background: #222222; }
 
-/* note to self ! */
 body {
   min-width: 1060px; }
 

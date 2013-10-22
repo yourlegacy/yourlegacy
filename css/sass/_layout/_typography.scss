@@ -154,5 +154,7 @@ hgroup *, .hgroup * {
 	color: $darkgray;
 }
 
-.testclass {color: black}
-/* note to self ! */
+.highlight-black {
+    display: inline-block; 
+    background: $black;
+}
