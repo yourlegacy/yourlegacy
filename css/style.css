@@ -469,6 +469,14 @@ blockquote {
 strong {
   font-weight: 700; }
 
+hr {
+  border: none;
+  border-bottom: 3px solid #222222;
+  margin: 20.5px 0; }
+
+ul {
+  padding-left: 44px; }
+
 a {
   color: #222222;
   text-decoration: none; }
