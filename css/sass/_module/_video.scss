@@ -28,13 +28,18 @@
 		background: rgba($white,0.98);
 		display: none;
 	}
+	
+	.video-overlay:hover {
+		background: rgba($black,0.85);
+	}
+
 	.video-overlay.active {
 		display: block;
 	}
 
 	.video-overlay.pre {
 		bottom: $base  * 5;
-		background: rgba($black,0.85);
+		background: rgba($black,1);
 		margin-top: $base;
 	}
 

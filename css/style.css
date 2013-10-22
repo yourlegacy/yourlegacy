@@ -470,7 +470,16 @@ strong {
   font-weight: 700; }
 
 a {
-  color: #f94d42; }
+  color: #222222;
+  text-decoration: none; }
+
+p a {
+  color: #f94d42;
+  text-decoration: underline; }
+
+a:hover {
+  color: #f94d42;
+  text-decoration: none; }
 
 h1, h2, h3, h4, h5, h6, p, blockquote {
   margin: 0 0 22px; }
@@ -510,6 +519,12 @@ hgroup *, .hgroup * {
   color: black; }
 
 /* note to self ! */
+body {
+  min-width: 1060px; }
+
+header, section, article {
+  position: relative; }
+
 .centered-container {
   text-align: center; }
 
@@ -718,11 +733,13 @@ article {
     bottom: 0;
     background: rgba(255, 255, 255, 0.98);
     display: none; }
+  .video-container .video-overlay:hover {
+    background: rgba(34, 34, 34, 0.85); }
   .video-container .video-overlay.active {
     display: block; }
   .video-container .video-overlay.pre {
     bottom: 110px;
-    background: rgba(34, 34, 34, 0.85);
+    background: #222222;
     margin-top: 22px; }
   .video-container .video-overlay .pre-roll,
   .video-container .video-overlay .post-roll {
@@ -762,6 +779,11 @@ article {
   position: absolute;
   top: 18px;
   left: 25px; }
+
+.issue {
+  position: absolute;
+  top: 77px;
+  right: 77px; }
 
 body {
   padding: 22px; }
@@ -955,3 +977,32 @@ section {
 .guide .button-black {
   background: #222222;
   color: white; }
+
+.title-badge {
+  position: absolute;
+  width: 130px;
+  height: 130px;
+  text-align: center;
+  background: #b4882c;
+  color: white;
+  padding: 22px;
+  border-radius: 100px;
+  right: 512px;
+  top: 22px; }
+
+.style-guide {
+  margin-top: 22px; }
+  .style-guide .colors {
+    display: block;
+    float: left;
+    margin-right: 2.35765%;
+    width: 31.76157%; }
+    .style-guide .colors:last-child {
+      margin-right: 0; }
+  .style-guide .type {
+    display: block;
+    float: left;
+    margin-right: 2.35765%;
+    width: 65.88078%; }
+    .style-guide .type:last-child {
+      margin-right: 0; }
