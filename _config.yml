@@ -12,11 +12,15 @@ prose:
         field:
           element: "hidden"
           value: "articles"
-    _posts/blog:
+       - name: "layout"
+        field:
+          element: "hidden"
+          value: "default"
+   _posts/blog:
       - name: "category"
         field:
           element: "hidden"
-          value: "blog"
+          value: "default"
       - name: "layout"
         field:
           element: "hidden"
