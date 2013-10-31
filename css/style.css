@@ -647,6 +647,31 @@ section {
   .span-12:last-child {
     margin-right: 0; }
 
+.inc-pad {
+  padding: 2.35765%; }
+
+.table {
+  *zoom: 1;
+  display: table;
+  width: 100%;
+  table-layout: fixed; }
+  .table:before, .table:after {
+    content: " ";
+    display: table; }
+  .table:after {
+    clear: both; }
+
+.span-33,
+.span-66 {
+  display: block;
+  float: left; }
+
+.span-33 {
+  width: 33%; }
+
+.span-66 {
+  width: 66%; }
+
 body {
   min-width: 1060px; }
 
@@ -814,19 +839,23 @@ input[type="submit"] {
     transform: rotate(6deg); }
 
 .offer {
-  display: block;
-  padding: 66px;
-  background: #222222;
   background-color: #222222;
   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #222222), color-stop(100%, #3c3c3c));
   background-image: -webkit-linear-gradient(top, #222222, #3c3c3c);
-  background-image: linear-gradient(to bottom,#222222, #3c3c3c); }
+  background-image: linear-gradient(to bottom,#222222, #3c3c3c);
+  display: block;
+  padding: 66px;
+  background: #222222; }
 
 .booklet {
-  color: white;
-  padding: 22px 22px 110px 22px;
   -webkit-transform: rotate(-5deg);
-  box-shadow: 11px 11px 0 #b3b3b3; }
+  -moz-transform: rotate(-5deg);
+  -ms-transform: rotate(-5deg);
+  -o-transform: rotate(-5deg);
+  transform: rotate(-5deg);
+  padding: 22px 22px 110px 22px;
+  box-shadow: 11px 11px 0 #b3b3b3;
+  color: white; }
   .booklet h3 {
     margin-bottom: 44px; }
   .booklet hr {
@@ -877,34 +906,30 @@ article {
     article blockquote:last-child {
       margin-right: 0; }
 
-.bios-container {
-  margin-top: 22px;
-  border-bottom: 3px solid #222222; }
-  .bios-container .bio {
-    margin-bottom: 22px; }
-    .bios-container .bio img {
-      display: block;
-      float: left;
-      margin-right: 2.35765%;
-      width: 31.76157%; }
-      .bios-container .bio img:last-child {
-        margin-right: 0; }
-    .bios-container .bio .copy {
-      display: block;
-      float: left;
-      margin-right: 2.35765%;
-      width: 65.88078%; }
-      .bios-container .bio .copy:last-child {
-        margin-right: 0; }
-  .bios-container .bio:after {
-    content: '';
+.bio {
+  margin-bottom: 22px; }
+  .bio img {
     display: block;
-    clear: both;
-    position: relative; }
+    float: left;
+    margin-right: 2.35765%;
+    width: 31.76157%; }
+    .bio img:last-child {
+      margin-right: 0; }
+  .bio .copy {
+    display: block;
+    float: left;
+    margin-right: 2.35765%;
+    width: 65.88078%; }
+    .bio .copy:last-child {
+      margin-right: 0; }
+
+.bio:after {
+  content: '';
+  display: block;
+  clear: both;
+  position: relative; }
 
 .video-container {
-  padding-bottom: 22px;
-  border-bottom: 3px solid #222222;
   position: relative; }
   .video-container .video-wrapper {
     position: relative;
@@ -930,7 +955,7 @@ article {
   .video-container .video-overlay.active {
     display: block; }
   .video-container .video-overlay.pre {
-    bottom: 132px;
+    bottom: 110px;
     background: #222222;
     margin-top: 22px; }
   .video-container .video-overlay .pre-roll,
@@ -1093,8 +1118,10 @@ header {
   -o-transform: scale(1.75);
   transform: scale(1.75); }
 
-.cta-container {
-  border-bottom: 3px solid #222222; }
+.wayne-offer-image {
+  background-image: url(../images/wayne/free-offers/wayne-simmonds-drew-doughty.jpg);
+  height: 397px;
+  background-size: cover; }
 
 .guide header {
   *zoom: 1;

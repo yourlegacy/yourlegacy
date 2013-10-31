@@ -1,24 +1,19 @@
-.bios-container {
-	margin-top: $base;
-	border-bottom: $border;
+.bio {
+	margin-bottom: $base;
 
-	.bio {
-		margin-bottom: $base;
-	
 
-		img {
-			@include span-columns(4);
-		}
-
-		.copy {
-			@include span-columns(8);
-		}
+	img {
+		@include span-columns(4);
 	}
 
-	.bio:after {
-		content: '';
-		display: block;
-		clear: both;
-		position: relative;
+	.copy {
+		@include span-columns(8);
 	}
+}
+
+.bio:after {
+	content: '';
+	display: block;
+	clear: both;
+	position: relative;
 }

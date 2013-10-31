@@ -62,3 +62,30 @@ section {
 .span-12 {
 	@include span-columns(12);
 }
+
+.inc-pad {
+	@include pad(); 
+}
+
+.table {
+	@include row(table);
+}
+
+.table-reset {
+	@include reset-display;
+}
+
+.span-33,
+.span-66 {
+	display: block;
+	float: left;
+}
+
+.span-33 {
+	width: 33%;
+}
+
+.span-66 {
+	width: 66%;
+}
+

@@ -1,6 +1,4 @@
 .video-container {
-	padding-bottom: $base;
-	border-bottom: $border;
 	position: relative;
 		
 
@@ -42,7 +40,7 @@
 	}
 
 	.video-overlay.pre {
-		bottom: $base  * 6;
+		bottom: $base  * 5;
 		background: rgba($black,1);
 		margin-top: $base;
 	}
