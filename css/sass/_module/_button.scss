@@ -1,0 +1,17 @@
+button,
+input[type="submit"] {
+	background: $gold;
+	color: $white;
+	border: none;
+	text-transform: uppercase;
+}
+
+.button {
+	padding: ($base * 0.5) ($base * 2);
+	text-transform: uppercase;
+}
+
+.button:hover {
+	background: red;
+	color: white;
+}

@@ -1,0 +1,21 @@
+.offer {
+	display: block; 
+	padding: $base * 3;
+	background: $black;
+	@include linear-gradient(to bottom, $black, lighten($black, 10%));
+}
+
+.booklet {
+	color: white;
+	padding: $base $base ($base * 5) $base;
+	-webkit-transform: rotate(-5deg);
+	box-shadow: ($base * 0.5) ($base * 0.5) 0 $darkgray;
+
+	h3 {
+		margin-bottom: $base * 2;
+	}
+
+	hr {
+		border-color: $white;
+	}
+}

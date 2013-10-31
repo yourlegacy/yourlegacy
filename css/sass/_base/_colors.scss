@@ -1,3 +1,4 @@
+// base colors
 $white: #fff;
 $black: #222;
 $darkgray: #b3b3b3;
@@ -7,3 +8,31 @@ $gold: #b4882c;
 $red: #f94d42;
 $green: #1b971a;
 $purple: #690091;
+
+
+// adjust
+$adjust: 15%;
+
+
+// lighten 
+$white-lighten: lighten(#fff, $adjust);
+$black-lighten: lighten(#222, $adjust);
+$darkgray-lighten: lighten(#b3b3b3, $adjust);
+$lightgray-lighten: lighten(#f6f6f6, $adjust);
+
+$gold-lighten: lighten(#b4882c, $adjust);
+$red-lighten: lighten(#f94d42, $adjust);
+$green-lighten: lighten(#1b971a, $adjust);
+$purple-lighten: lighten(#690091, $adjust);
+
+
+// darken 
+$white-darken: darken(#fff, $adjust);
+$black-darken: darken(#222, $adjust);
+$darkgray-darken: darken(#b3b3b3, $adjust);
+$lightgray-darken: darken(#f6f6f6, $adjust);
+
+$gold-darken: darken(#b4882c, $adjust);
+$red-darken: darken(#f94d42, $adjust);
+$green-darken: darken(#1b971a, $adjust);
+$purple-darken: darken(#690091, $adjust);

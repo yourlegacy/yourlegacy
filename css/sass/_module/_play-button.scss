@@ -10,6 +10,7 @@
 	border-radius: 100px;
 	background: $red;
 	display: block;
+	cursor: pointer;
 }
 
 .play-button:after {
@@ -22,3 +23,12 @@
 	top: 18px;
 	left: 25px;
 }
+
+.play-button:hover:before {
+	background: $white;
+}
+
+.play-button:hover:after {
+	border-left-color: $red;
+}
+

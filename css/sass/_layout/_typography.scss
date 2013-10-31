@@ -12,7 +12,9 @@ $base: 22px;
 }
 
 html, 
-body {
+body,
+input, 
+button {
 	font-weight: 300;
 	font-size: 15px;
 	line-height: $base;
@@ -94,6 +96,11 @@ hr {
 
 ul {
     padding-left: $base * 2;
+}
+
+input[type="text"] {
+    padding: ($base * 0.5) $base;
+    border: none;
 }
 
 // LINKS

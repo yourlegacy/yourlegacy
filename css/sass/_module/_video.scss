@@ -2,6 +2,8 @@
 	padding-bottom: $base;
 	border-bottom: $border;
 	position: relative;
+		
+
 
 	.video-wrapper {	
 		position: relative;
@@ -9,6 +11,7 @@
 		padding-top: 22px;
 		height: 0;
 		margin: $base 0;
+		//@include span-columns(12);	
 
 		iframe {
 			position: absolute;
@@ -27,18 +30,19 @@
 		bottom: 0;
 		background: rgba($white,0.98);
 		display: none;
+		cursor: pointer;
 	}
 	
-	.video-overlay:hover {
-		background: rgba($black,0.85);
-	}
+	// .video-overlay:hover {
+	// 	background: rgba($black,0.85);
+	// }
 
 	.video-overlay.active {
 		display: block;
 	}
 
 	.video-overlay.pre {
-		bottom: $base  * 5;
+		bottom: $base  * 6;
 		background: rgba($black,1);
 		margin-top: $base;
 	}
@@ -53,7 +57,9 @@
 		display: inline-block;
 	}
 
-	.hgroup {
-		@include span-columns(12);		
+	.hgroup,
+	.addthis_toolbox {
+		//@include span-columns(12);		
 	}
+
 }

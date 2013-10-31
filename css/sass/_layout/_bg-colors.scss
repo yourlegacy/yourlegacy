@@ -1,0 +1,42 @@
+// backgrounds
+.bg-gold {
+	background: $gold;
+}
+
+.bg-red {
+	background: $red;
+}
+
+.bg-green {
+	background: $green;
+}
+
+.bg-purple {
+	background: $purple;
+}
+
+.bg-red {
+	background: $red;
+}
+
+.bg-white {
+    background: $white;
+}
+
+.bg-lightgray {
+	background: $lightgray;
+}
+
+.bg-darkgray {
+	background: $darkgray;
+}
+
+.bg-black {
+	background: $black;
+}
+
+// gradients 
+body {
+	@include linear-gradient(to bottom, $lightgray 60%, $lightgray-darken 100% );
+	background-attachment: fixed;
+}
