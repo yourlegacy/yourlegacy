@@ -501,6 +501,15 @@ h1, h2, h3, h4, h5, h6, p, blockquote {
 hgroup *, .hgroup * {
   margin-bottom: 0; }
 
+.left {
+  text-align: left; }
+
+.center {
+  text-align: center; }
+
+.right {
+  text-align: right; }
+
 .intro {
   font-size: 22px;
   line-height: 44px; }
@@ -739,7 +748,7 @@ input[type="submit"] {
   padding: 22px 88px; }
 
 .button:hover {
-  background: red;
+  background: #f94d42;
   color: white; }
 
 .cta-button {
@@ -1160,7 +1169,8 @@ header {
     display: block;
     float: left;
     margin-right: 2.35765%;
-    width: 40.29137%; }
+    width: 40.29137%;
+    margin-top: -168px; }
     .guide header .wayne-hero-image:last-child {
       margin-right: 0; }
 .guide .pricing .pricing-item {
@@ -1192,13 +1202,6 @@ header {
   margin-bottom: 22px; }
   .guide .buy-now-button strong {
     display: block; }
-.guide .button-red {
-  background: #f94d42; }
-.guide .button-gold {
-  background: #b4882c; }
-.guide .button-black {
-  background: #222222;
-  color: white; }
 
 .title-badge {
   position: absolute;

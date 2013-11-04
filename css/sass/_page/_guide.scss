@@ -25,6 +25,7 @@
 
 		.wayne-hero-image {
 			@include span-columns(5);
+			margin-top: -168px;
 		}
 	}
 
@@ -76,17 +77,4 @@
 			display: block;
 		}			
 	}
-
-	.button-red {
-		background: $red;
-	}
-	.button-gold {
-		background: $gold;
-	}
-	.button-black {
-		background: $black;
-		color: $white;
-	}
-
-
 }
