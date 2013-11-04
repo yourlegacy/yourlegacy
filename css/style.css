@@ -732,7 +732,11 @@ input[type="submit"] {
 
 .button {
   padding: 11px 44px;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  display: inline-block; }
+
+.button-large {
+  padding: 22px 88px; }
 
 .button:hover {
   background: red;
