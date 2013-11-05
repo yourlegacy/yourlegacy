@@ -14,14 +14,9 @@ prose:
           value: "blog"
       - name: "published"
         field:
-          element: "select"
+          element: "hidden"
           value: "true"
-          options:
-            - name: "False"
-              value: "true"
-            - name: "True"
-              value: "false"
-     - name: "layout"
+      - name: "layout"
         field:
           element: "hidden"
           value: "default"
