@@ -1197,6 +1197,11 @@ header {
 .guide .pricing h2 {
   text-align: center; }
 
+.blog-post .text-column {
+  margin-left: 25.58941%; }
+.blog-post img {
+  width: 100%; }
+
 .title-badge {
   position: absolute;
   width: 130px;

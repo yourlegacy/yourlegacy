@@ -1,0 +1,10 @@
+.blog-post {
+
+	.text-column {
+		@include shift(3);
+	}
+
+	img {
+		width: 100%;
+	}
+}
