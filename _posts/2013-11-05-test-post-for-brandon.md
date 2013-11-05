@@ -11,4 +11,4 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 ## Another Heading 2
 
-![canadian breaking bad.jpg](/prose_media/canadian breaking bad.jpg)
+![canadian breaking bad.jpg](/prose_media/canadian-breaking-bad.jpg)
