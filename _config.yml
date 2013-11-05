@@ -16,7 +16,7 @@ prose:
         field:
           element: "select"
           value: "true"
-           options:
+          options:
             - name: "False"
               value: "true"
             - name: "True"
