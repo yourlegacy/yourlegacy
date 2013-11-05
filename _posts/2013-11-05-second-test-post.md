@@ -1,7 +1,7 @@
 ---
 layout: default
 category: blog
-published: false
+published: true
 title: Second Test Post
 ---
 

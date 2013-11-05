@@ -12,7 +12,16 @@ prose:
         field:
           element: "hidden"
           value: "blog"
-      - name: "layout"
+      - name: "published"
+        field:
+          element: "select"
+          value: "true"
+           options:
+            - name: "False"
+              value: "true"
+            - name: "True"
+              value: "false"
+     - name: "layout"
         field:
           element: "hidden"
           value: "default"
