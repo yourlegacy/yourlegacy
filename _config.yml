@@ -7,7 +7,7 @@ prose:
   siteurl: 'http://yourlegacy.github.io/'
   media: 'prose_media'
   metadata:
-    _posts:
+    _posts/blog:
       - name: "category"
         field:
           element: "hidden"
@@ -15,7 +15,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "blog"
+          value: "default"
       - name: "title"
         field:
           element: "text"
