@@ -3,6 +3,7 @@
 		@include outer-container;
 		border-bottom: $border;
 		padding-bottom: 0;
+		background: url(/images/wayne/ws-pdf-teaser3.png) no-repeat 322px 74px;
 
 		.logo {
 			margin-bottom: $base;
@@ -32,17 +33,7 @@
 	.pricing {
 		.pricing-item {
 			@include span-columns(6);
-			border: 2px solid $black;
-			margin-top: $base;
-			padding: $base $base 0;
-			// height: $base * 23;
-			// position: relative;
-
-			// .buy-now-button {
-			// 	position: absolute;
-			// 	width: 100%;
-			// 	bottom: $base;
-			// }
+			padding: ($base * 2);
 
 			ul {
 				list-style: none;
@@ -61,20 +52,5 @@
 		h2 {
 			text-align: center;
 		}
-	}
-	
-	.buy-now-button {
-		display: block;
-		padding: ($base * 0.5) $base;
-		border: 2px solid $black;
-		color: $black;
-		text-align: center;
-		text-decoration: none;
-		line-height: $base * 2;
-		margin-bottom: $base;
-
-		strong {
-			display: block;
-		}			
 	}
 }

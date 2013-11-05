@@ -681,6 +681,9 @@ section {
 .span-66 {
   width: 66%; }
 
+.span-100 {
+  width: 100%; }
+
 body {
   min-width: 1060px; }
 
@@ -724,6 +727,9 @@ body {
 
 .bg-black {
   background: #222222; }
+
+.translucent {
+  opacity: 0.85; }
 
 body {
   background-color: #f6f6f6;
@@ -1142,7 +1148,8 @@ header {
   margin-left: auto;
   margin-right: auto;
   border-bottom: 3px solid #222222;
-  padding-bottom: 0; }
+  padding-bottom: 0;
+  background: url(/images/wayne/ws-pdf-teaser3.png) no-repeat 322px 74px; }
   .guide header:before, .guide header:after {
     content: " ";
     display: table; }
@@ -1178,9 +1185,7 @@ header {
   float: left;
   margin-right: 2.35765%;
   width: 48.82117%;
-  border: 2px solid #222222;
-  margin-top: 22px;
-  padding: 22px 22px 0; }
+  padding: 44px; }
   .guide .pricing .pricing-item:last-child {
     margin-right: 0; }
   .guide .pricing .pricing-item ul {
@@ -1191,17 +1196,6 @@ header {
   background: #f94d42; }
 .guide .pricing h2 {
   text-align: center; }
-.guide .buy-now-button {
-  display: block;
-  padding: 11px 22px;
-  border: 2px solid #222222;
-  color: #222222;
-  text-align: center;
-  text-decoration: none;
-  line-height: 44px;
-  margin-bottom: 22px; }
-  .guide .buy-now-button strong {
-    display: block; }
 
 .title-badge {
   position: absolute;

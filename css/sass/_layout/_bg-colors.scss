@@ -35,6 +35,10 @@
 	background: $black;
 }
 
+.translucent {
+	opacity: 0.85;
+}
+
 // gradients 
 body {
 	@include linear-gradient(to bottom, $lightgray 60%, $lightgray-darken 100% );
