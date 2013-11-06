@@ -1,3 +1,28 @@
+.blog-list {
+
+	.blog-list-item {
+		@include span-columns(12);
+		margin-bottom: $base * 2;
+
+		
+		.post-teaser {
+			//@include span-columns(5 of 12);
+			padding: $base;
+		}
+
+		.post-image {
+			//@include span-columns(7 of 12);
+		}
+
+	}
+
+	.blog-list-item:hover {
+		//background: $red;
+		color: $white;
+		opacity: 0.85;
+	}
+}
+
 .blog-post {
 
 	.text-column {
@@ -5,6 +30,9 @@
 	}
 
 	img {
-		width: 100%;
+		width: 150%;
+		margin-left: -25%;
 	}
 }
+
+

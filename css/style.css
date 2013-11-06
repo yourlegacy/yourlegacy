@@ -670,16 +670,19 @@ section {
   .table:after {
     clear: both; }
 
+.omega {
+  margin-right: 0; }
+
 .span-33,
 .span-66 {
   display: block;
   float: left; }
 
 .span-33 {
-  width: 33%; }
+  width: 33.33333333%; }
 
 .span-66 {
-  width: 66%; }
+  width: 66.66666666%; }
 
 .span-100 {
   width: 100%; }
@@ -1197,10 +1200,25 @@ header {
 .guide .pricing h2 {
   text-align: center; }
 
+.blog-list .blog-list-item {
+  display: block;
+  float: left;
+  margin-right: 2.35765%;
+  width: 100%;
+  margin-bottom: 44px; }
+  .blog-list .blog-list-item:last-child {
+    margin-right: 0; }
+  .blog-list .blog-list-item .post-teaser {
+    padding: 22px; }
+.blog-list .blog-list-item:hover {
+  color: white;
+  opacity: 0.85; }
+
 .blog-post .text-column {
   margin-left: 25.58941%; }
 .blog-post img {
-  width: 100%; }
+  width: 150%;
+  margin-left: -25%; }
 
 .title-badge {
   position: absolute;

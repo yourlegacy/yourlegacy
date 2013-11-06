@@ -3,14 +3,16 @@ layout: default
 title: Blog Posts List
 ---
 
-<section>
-	<h1>Blog Posts</h1>
-	<ul>
-	  {% for post in site.categories.blog %}
-	    <li>
-	      <a href="{{ post.url }}">{{ post.title }}</a>
-	      <p>{{ post.excerpt }}</p>
-	    </li>
-	  {% endfor %}
-	</ul>	
+<section class="blog-list">
+	<h1 class="span-12">The YL Blog</h1>
+  	{% for post in site.categories.blog %}
+    	<a class="blog-list-item span-12 bg-black white" href="{{ post.url }}">
+    		<div class="post-teaser span-33">
+    			<h2 class="gold">{{ post.title }}</h2>
+    			<p class="lightgray">{{ post.excerpt | strip_html | replace: '#', '' | truncate: 350 }}</p>
+    			<div class="button bg-red"><strong>See The Full Article</strong></div>
+    		</div>
+    		<img class="post-image span-66" src="/prose_media/Raymond-Loewy-507-02-750x499.jpg">
+    	</a>
+  	{% endfor %}
 </section>

@@ -75,6 +75,10 @@ section {
 	@include reset-display;
 }
 
+.omega {
+	@include omega();
+}
+
 .span-33,
 .span-66 {
 	display: block;
@@ -82,11 +86,11 @@ section {
 }
 
 .span-33 {
-	width: 33%;
+	width: 33.33333333%;
 }
 
 .span-66 {
-	width: 66%;
+	width: 66.66666666%;
 }
 
 .span-100 {
