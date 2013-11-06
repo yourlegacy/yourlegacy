@@ -19,7 +19,11 @@
 	.blog-list-item:hover {
 		//background: $red;
 		color: $white;
-		opacity: 0.85;
+		//opacity: 0.85;
+
+		.button {
+			background: $red;
+		}
 	}
 }
 

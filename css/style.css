@@ -1211,8 +1211,9 @@ header {
   .blog-list .blog-list-item .post-teaser {
     padding: 22px; }
 .blog-list .blog-list-item:hover {
-  color: white;
-  opacity: 0.85; }
+  color: white; }
+  .blog-list .blog-list-item:hover .button {
+    background: #f94d42; }
 
 .blog-post .text-column {
   margin-left: 25.58941%; }
