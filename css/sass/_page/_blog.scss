@@ -44,6 +44,8 @@
 
 .blog header {
 	background: url(/images/wayne/ws-pdf-teaser3.png) no-repeat 322px 74px;
+	-webkit-transition:background-position 0.3s ease;
+	transition:background-position 0.3s ease;
 }
 
 .blog header:hover {
