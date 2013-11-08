@@ -15,7 +15,7 @@ $(document).ready(function(){
 	// Popcorn
 	var videoInterview = Popcorn.youtube(
 		'#video-container',
-		'http://www.youtube.com/watch?v=CxvgCLgwdNk' 
+		'http://www.youtube.com/watch?v=zZ5XFYQf9rg'
 	);
 
 	videoInterview.on('ended', function(){
@@ -36,4 +36,4 @@ $(document).ready(function(){
 });
 
 
-// fix bug of playing entire container in post 
+// fix bug of playing entire container in post
