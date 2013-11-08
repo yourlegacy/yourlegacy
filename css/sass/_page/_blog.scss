@@ -40,3 +40,16 @@
 }
 
 
+// fun CTA trick
+
+.blog header {
+	background: url(/images/wayne/ws-pdf-teaser3.png) no-repeat 322px 74px;
+}
+
+.blog header:hover {
+	background-position-y: -50px;
+
+	h1, .logo {
+		opacity: 0.1;
+	}
+}

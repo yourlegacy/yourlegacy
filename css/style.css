@@ -732,7 +732,7 @@ body {
   background: #222222; }
 
 .translucent {
-  opacity: 0.85; }
+  opacity: 0.95; }
 
 body {
   background-color: #f6f6f6;
@@ -1145,7 +1145,7 @@ header {
   height: 397px;
   background-size: cover; }
 
-.guide header {
+.wayne header {
   *zoom: 1;
   max-width: 68em;
   margin-left: auto;
@@ -1153,51 +1153,51 @@ header {
   border-bottom: 3px solid #222222;
   padding-bottom: 0;
   background: url(/images/wayne/ws-pdf-teaser3.png) no-repeat 322px 74px; }
-  .guide header:before, .guide header:after {
+  .wayne header:before, .wayne header:after {
     content: " ";
     display: table; }
-  .guide header:after {
+  .wayne header:after {
     clear: both; }
-  .guide header .logo {
+  .wayne header .logo {
     margin-bottom: 22px; }
-  .guide header .buy-now {
+  .wayne header .buy-now {
     display: block;
     float: left;
     margin-right: 2.35765%;
     width: 57.35098%; }
-    .guide header .buy-now:last-child {
+    .wayne header .buy-now:last-child {
       margin-right: 0; }
-    .guide header .buy-now hgroup {
+    .wayne header .buy-now hgroup {
       margin-bottom: 22px;
       width: 100%; }
-    .guide header .buy-now .button-col {
+    .wayne header .buy-now .button-col {
       width: 45%;
       display: block;
       float: left;
       margin-right: 5%; }
-  .guide header .wayne-hero-image {
+  .wayne header .wayne-hero-image {
     display: block;
     float: left;
     margin-right: 2.35765%;
     width: 40.29137%;
     margin-top: -168px; }
-    .guide header .wayne-hero-image:last-child {
+    .wayne header .wayne-hero-image:last-child {
       margin-right: 0; }
-.guide .pricing .pricing-item {
+.wayne .pricing .pricing-item {
   display: block;
   float: left;
   margin-right: 2.35765%;
   width: 48.82117%;
   padding: 44px; }
-  .guide .pricing .pricing-item:last-child {
+  .wayne .pricing .pricing-item:last-child {
     margin-right: 0; }
-  .guide .pricing .pricing-item ul {
+  .wayne .pricing .pricing-item ul {
     list-style: none; }
-.guide .pricing .pricing-item-gold {
+.wayne .pricing .pricing-item-gold {
   background: #b4882c; }
-.guide .pricing .pricing-item-red {
+.wayne .pricing .pricing-item-red {
   background: #f94d42; }
-.guide .pricing h2 {
+.wayne .pricing h2 {
   text-align: center; }
 
 .blog-list .blog-list-item {
@@ -1220,6 +1220,14 @@ header {
 .blog-post img {
   width: 150%;
   margin-left: -25%; }
+
+.blog header {
+  background: url(/images/wayne/ws-pdf-teaser3.png) no-repeat 322px 74px; }
+
+.blog header:hover {
+  background-position-y: -50px; }
+  .blog header:hover h1, .blog header:hover .logo {
+    opacity: 0.1; }
 
 .title-badge {
   position: absolute;

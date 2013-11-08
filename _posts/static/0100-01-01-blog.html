@@ -1,10 +1,16 @@
 ---
 layout: default
-title: Blog Posts List
+title: Your Legacy Blog
 ---
 
+<header class="hero">
+    <a href="/wayne-simmonds/">
+        <h1 class="title-badge h2 translucent">The Blog</h1>
+        <img class="logo" src="/images/your-legacy.svg" alt="Your Legacy" />
+    </a>
+</header>
+
 <section class="blog-list">
-	<h1 class="span-12">The YL Blog</h1>
   	{% for post in site.categories.blog %}
     	<a class="blog-list-item span-12 bg-black white" href="{{ post.url }}">
     		<div class="post-teaser span-33">
