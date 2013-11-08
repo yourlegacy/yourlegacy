@@ -1227,7 +1227,7 @@ header {
   transition: background-position 0.3s ease; }
 
 .blog header:hover {
-  background-position-y: -50px; }
+  background-position: 322px  -50px; }
   .blog header:hover h1, .blog header:hover .logo {
     opacity: 0.1; }
 
