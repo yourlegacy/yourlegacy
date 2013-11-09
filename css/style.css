@@ -542,6 +542,10 @@ hgroup *, .hgroup * {
   display: inline-block;
   background: #222222; }
 
+.amp {
+  font-style: italic;
+  font-family: Baskerville, Palatino, 'Book Antiqua', serif; }
+
 header, section, article {
   position: relative; }
 
@@ -672,6 +676,9 @@ section {
 
 .omega {
   margin-right: 0; }
+
+.shift-3 {
+  margin-left: 25.58941%; }
 
 .span-33,
 .span-66 {

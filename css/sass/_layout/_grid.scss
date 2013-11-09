@@ -79,6 +79,10 @@ section {
 	@include omega();
 }
 
+.shift-3 {
+	@include shift(3);
+}
+
 .span-33,
 .span-66 {
 	display: block;
