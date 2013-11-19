@@ -1253,7 +1253,12 @@ header {
 .blog-post h1, .blog-post .splash {
   margin-bottom: 22px;
   margin-left: -25%;
-  width: 150%; }
+  width: 150%;
+  text-align: center; }
+.blog-post em {
+  margin-bottom: 22px;
+  display: block;
+  text-align: center; }
 .blog-post p:first-of-type {
   font-size: 22px;
   line-height: 44px; }

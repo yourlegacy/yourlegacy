@@ -35,10 +35,13 @@
 		margin-bottom: $base;
 		margin-left: -25%;
 		width: 150%;
+		text-align: center;
 	}
 
-	h2 {
-
+	em {
+		margin-bottom: $base;
+		display: block;
+		text-align: center;
 	}
 
 	p:first-of-type {
