@@ -7,7 +7,7 @@ title: Your Legacy Blog
 {% include membra-nav.html %}
 
 <section class="blog-list">
-  	{% for post in site.categories.blog %}
+  	{% for post in site.categories.blog reversed %}
     	<a class="blog-list-item span-12 bg-black white" href="{{ post.url }}">
     		<div class="post-teaser span-33">
     			<h2 class="gold">{{ post.title }}</h2>
