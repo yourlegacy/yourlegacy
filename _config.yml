@@ -28,23 +28,15 @@ prose:
       - name: "splash"
         field:
           element: "text"
-          label: "Splash image"
+          label: "Splash Image URL"
           help: "Must be 680px X 440px (w/h)"
           value: ""
-      - name: "tags"
+      - name: "author"
         field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-            - name: "Pears"
-              value: "pears"
-            - name: "Mangos"
-              value: "mangos"
+          element: "text"
+          label: "Author's Full Name"
+          help: "Please don't include 'by'."
+          value: ""
     _posts/static:
       - name: "layout"
         field:

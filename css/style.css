@@ -958,29 +958,6 @@ article {
     article blockquote:last-child {
       margin-right: 0; }
 
-.bio {
-  margin-bottom: 22px; }
-  .bio img {
-    display: block;
-    float: left;
-    margin-right: 2.35765%;
-    width: 31.76157%; }
-    .bio img:last-child {
-      margin-right: 0; }
-  .bio .copy {
-    display: block;
-    float: left;
-    margin-right: 2.35765%;
-    width: 65.88078%; }
-    .bio .copy:last-child {
-      margin-right: 0; }
-
-.bio:after {
-  content: '';
-  display: block;
-  clear: both;
-  position: relative; }
-
 .video-container {
   position: relative; }
   .video-container .video-wrapper {
@@ -1016,6 +993,29 @@ article {
   .video-container .video-overlay.pre .pre-roll,
   .video-container .video-overlay.post .post-roll {
     display: inline-block; }
+
+.bio {
+  margin-bottom: 22px; }
+  .bio img {
+    display: block;
+    float: left;
+    margin-right: 2.35765%;
+    width: 31.76157%; }
+    .bio img:last-child {
+      margin-right: 0; }
+  .bio .copy {
+    display: block;
+    float: left;
+    margin-right: 2.35765%;
+    width: 65.88078%; }
+    .bio .copy:last-child {
+      margin-right: 0; }
+
+.bio:after {
+  content: '';
+  display: block;
+  clear: both;
+  position: relative; }
 
 .play-button {
   position: relative; }

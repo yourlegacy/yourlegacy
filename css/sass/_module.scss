@@ -2,14 +2,17 @@
 @import "_module/border";
 
 // components
+
+// macro
 @import "_module/nav";
 @import "_module/button";
 @import "_module/cta";
 @import "_module/offer";
 @import "_module/article";
-@import "_module/bios";
 @import "_module/video";
-@import "_module/play-button";
+@import "_module/bios";
 
-// 1-off
-@import "_module/issue";
+// micro 
+@import "_module/play-button";
+@import "_module/issue-number";
+@import "_module/hero-cookie";
