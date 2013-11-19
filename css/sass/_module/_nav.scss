@@ -1,0 +1,40 @@
+.nav {
+	background: $black;
+	margin-top: ($base * -1);
+
+	ul {
+		margin: 0;
+		padding: 0;
+	}
+
+	li {
+		display: inline-block;
+		list-style: none;
+
+		a {
+			display: inline-block;
+			color: $white;
+			padding: ($base * 0.5) ($base * 2);
+			background: $black;
+		}
+		
+		a:hover {
+			background: $red;
+			color: $white;
+		}
+
+		.active {
+			background: $lightgray;
+			color: $black;
+			cursor: default;
+		}
+	}
+
+	.nav-cta {
+		float: right;
+		
+		a {
+			background: $gold;
+		}
+	}
+}

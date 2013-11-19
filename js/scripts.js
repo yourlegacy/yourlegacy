@@ -33,7 +33,25 @@ $(document).ready(function(){
  		$(".video-overlay").removeClass('pre');
   		videoInterview.play();
 	});
+	// fix bug of playing entire container in post
+
+	// Sticky
+	// var menuOffset = $('#sticky')[0].offsetTop;
+
+	// $(document).bind('ready scroll', function() {
+	//     var docScroll = $(document).scrollTop();
+
+	//     if (docScroll >= menuOffset) {
+	//         $('#sticky').addClass('fixed');
+	//         $('html').addClass('sticky-go');
+	//     } else {
+	//         $('#sticky').removeClass('fixed');            
+	//         $('html').removeClass('sticky-go');
+	//    }
+
+	// });
+
 });
 
 
-// fix bug of playing entire container in post
+

@@ -2,7 +2,7 @@
 layout: blog
 published: true
 category: blog
-title: Testing Slash Image
+title: Testing Splash Image
 splash: "prose_media/Raymond-Loewy-507-02-750x499.jpg"
 ---
 

@@ -29,6 +29,7 @@ prose:
         field:
           element: "text"
           label: "Splash image"
+          help: "Must be 680px X 440px (w/h)"
           value: ""
       - name: "tags"
         field:

@@ -24,6 +24,10 @@
 		.button {
 			background: $red;
 		}
+		.button:hover {
+			background: $white;
+			color: $red;
+		}
 	}
 }
 
@@ -33,22 +37,24 @@
 		@include shift(3);
 	}
 
-	img {
+	h1, img {
 		width: 150%;
 		margin-left: -25%;
+		margin-bottom: $base;
 	}
 }
 
 
 // fun CTA trick
 
-.blog header {
+.hero-cookie {
 	background: url(/images/wayne/ws-pdf-teaser3.png) no-repeat 322px 74px;
 	-webkit-transition:background-position 0.3s ease;
 	transition:background-position 0.3s ease;
+	border-bottom: none;
 }
 
-.blog header:hover {
+.hero-cookie:hover {
 	background-position: 322px  -50px;
 
 	h1, .logo {

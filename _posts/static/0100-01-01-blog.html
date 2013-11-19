@@ -3,12 +3,8 @@ layout: default
 title: Your Legacy Blog
 ---
 
-<header class="hero">
-    <a href="/wayne-simmonds/">
-        <h1 class="title-badge h2 translucent">The Blog</h1>
-        <img class="logo" src="/images/your-legacy.svg" alt="Your Legacy" />
-    </a>
-</header>
+{% include corpus-caput.html %}
+{% include membra-nav.html %}
 
 <section class="blog-list">
   	{% for post in site.categories.blog %}
@@ -18,7 +14,7 @@ title: Your Legacy Blog
     			<p class="lightgray">{{ post.excerpt | strip_html | replace: '#', '' | truncate: 350 }}</p>
     			<div class="button bg-purple"><strong>See The Full Article</strong></div>
     		</div>
-    		<img class="post-image span-66" src="/prose_media/Raymond-Loewy-507-02-750x499.jpg">
+            <img class="post-image span-66" src="/{{ post.splash }}" alt="{{ page.title }}" />
     	</a>
   	{% endfor %}
 </section>

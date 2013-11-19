@@ -1,10 +1,7 @@
 // Default Positions
 
-header, section, article {
+header, section, article, nav {
 	position: relative;
-}
-
-section {
 	@include outer-container;
 	margin: $base auto;
 }

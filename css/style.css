@@ -546,19 +546,17 @@ hgroup *, .hgroup * {
   font-style: italic;
   font-family: Baskerville, Palatino, 'Book Antiqua', serif; }
 
-header, section, article {
-  position: relative; }
-
-section {
+header, section, article, nav {
+  position: relative;
   *zoom: 1;
   max-width: 68em;
   margin-left: auto;
   margin-right: auto;
   margin: 22px auto; }
-  section:before, section:after {
+  header:before, header:after, section:before, section:after, article:before, article:after, nav:before, nav:after {
     content: " ";
     display: table; }
-  section:after {
+  header:after, section:after, article:after, nav:after {
     clear: both; }
 
 .block {
@@ -747,6 +745,32 @@ body {
   background-image: -webkit-linear-gradient(top, #f6f6f6 60%, #d0d0d0 100%);
   background-image: linear-gradient(to bottom,#f6f6f6 60%, #d0d0d0 100%);
   background-attachment: fixed; }
+
+.nav {
+  background: #222222;
+  margin-top: -22px; }
+  .nav ul {
+    margin: 0;
+    padding: 0; }
+  .nav li {
+    display: inline-block;
+    list-style: none; }
+    .nav li a {
+      display: inline-block;
+      color: white;
+      padding: 11px 44px;
+      background: #222222; }
+    .nav li a:hover {
+      background: #f94d42;
+      color: white; }
+    .nav li .active {
+      background: #f6f6f6;
+      color: #222222;
+      cursor: default; }
+  .nav .nav-cta {
+    float: right; }
+    .nav .nav-cta a {
+      background: #b4882c; }
 
 button,
 input[type="submit"] {
@@ -1221,21 +1245,26 @@ header {
   color: white; }
   .blog-list .blog-list-item:hover .button {
     background: #f94d42; }
+  .blog-list .blog-list-item:hover .button:hover {
+    background: white;
+    color: #f94d42; }
 
 .blog-post .text-column {
   margin-left: 25.58941%; }
-.blog-post img {
+.blog-post h1, .blog-post img {
   width: 150%;
-  margin-left: -25%; }
+  margin-left: -25%;
+  margin-bottom: 22px; }
 
-.blog header {
+.hero-cookie {
   background: url(/images/wayne/ws-pdf-teaser3.png) no-repeat 322px 74px;
   -webkit-transition: background-position 0.3s ease;
-  transition: background-position 0.3s ease; }
+  transition: background-position 0.3s ease;
+  border-bottom: none; }
 
-.blog header:hover {
+.hero-cookie:hover {
   background-position: 322px  -50px; }
-  .blog header:hover h1, .blog header:hover .logo {
+  .hero-cookie:hover h1, .hero-cookie:hover .logo {
     opacity: 0.1; }
 
 .title-badge {
