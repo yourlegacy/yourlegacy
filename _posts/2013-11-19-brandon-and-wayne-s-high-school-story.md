@@ -3,9 +3,13 @@ layout: blog
 published: true
 category: blog
 title: Brandon and Wayne’s High School Story
+splash: "/prose_media/your-legacy-youth-hockey.jpg"
 ---
 
 I was actually lucky enough to grow up with Wayne Simmonds and watch him develop into the incredible hockey player he is today. A lot of the things we did as kids and teenagers were directly related to sports and hockey.
+
+![your-legacy-youth-hockey.jpg](/prose_media/your-legacy-youth-hockey.jpg)
+
 
 ## Combining Play & Practice
 
