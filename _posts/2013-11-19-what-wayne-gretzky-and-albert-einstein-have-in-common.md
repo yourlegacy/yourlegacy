@@ -3,9 +3,8 @@ layout: blog
 published: true
 category: blog
 title: What Wayne Gretzky and Albert Einstein Have In Common
+splash: "prose_media/your-legacy-wayne-gretzky.jpg"
 ---
-
-
 
 At first glance Albert Einstein and Wayne Gretzky seem to be two very different people. Einstein, being a world renowned theoretical physicist that changed the world of modern physics; and Gretzky, being the greatest hockey player to have ever played the game. Successful people have many common traits but most are taken for granted and are overlooked. As different as you think they may be, they have far more similarities than meets the eye. Understanding what successful people have in common can help us learn how to improve our own lives.
  
