@@ -14,7 +14,7 @@ title: Your Legacy Blog
     			<p class="lightgray">{{ post.excerpt | strip_html | replace: '#', '' | truncate: 350 }}</p>
     			<div class="button bg-purple"><strong>See The Full Article</strong></div>
     		</div>
-            <img class="post-image span-66" src="/{{ post.splash }}" alt="{{ page.title }}" />
+            <img class="post-image span-66" src="{{ post.splash }}" alt="{{ page.title }}" />
     	</a>
   	{% endfor %}
 </section>
