@@ -2,7 +2,7 @@
 layout: blog
 published: true
 category: blog
-title: What Wayne Gretzky and Albert Einstein Have In Common
+title: "What Gretzky &amp; Einstein Have In Common"
 splash: "prose_media/your-legacy-wayne-gretzky.jpg"
 ---
 
