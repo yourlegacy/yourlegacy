@@ -22,6 +22,9 @@ The first and most obvious similarity is that both of them were at the top of th
 - He discussed the Brownian motion that helped in proving the existence of molecules
 - He also gave forth explanation regarding the dynamics of individual moving bodies
 - And last, but not the least, he explained the nature of space and time
+
+![your-legacy-einstein.jpg](/prose_media/your-legacy-einstein.jpg)
+
  
 ## Wayne Gretzky’s Awards and Accomplishments
 
