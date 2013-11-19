@@ -765,8 +765,7 @@ body {
       color: white; }
     .nav li .active {
       background: #f6f6f6;
-      color: #222222;
-      cursor: default; }
+      color: #222222; }
   .nav .nav-cta {
     float: right; }
     .nav .nav-cta a {
