@@ -1253,8 +1253,12 @@ header {
   margin-left: 25.58941%; }
 .blog-post h1, .blog-post img {
   width: 150%;
-  margin-left: -25%;
+  margin-left: -25%; }
+.blog-post img.splash {
   margin-bottom: 22px; }
+.blog-post small img {
+  width: 100%;
+  margin-left: 0; }
 
 .hero-cookie {
   background: url(/images/wayne/ws-pdf-teaser3.png) no-repeat 322px 74px;
