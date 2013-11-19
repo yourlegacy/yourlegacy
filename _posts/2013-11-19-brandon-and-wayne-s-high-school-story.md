@@ -8,9 +8,6 @@ splash: "/prose_media/your-legacy-youth-hockey.jpg"
 
 I was actually lucky enough to grow up with Wayne Simmonds and watch him develop into the incredible hockey player he is today. A lot of the things we did as kids and teenagers were directly related to sports and hockey.
 
-![your-legacy-youth-hockey.jpg](/prose_media/your-legacy-youth-hockey.jpg)
-
-
 ## Combining Play & Practice
 
 In high school, after school was finished each day, we used walk over to the community gym and play games that were fun and helped us develop our hockey skills. There is one game in particular that Wayne and I used to always play that has been foundational to his ability to be so effective in front of the net on a power play. 
