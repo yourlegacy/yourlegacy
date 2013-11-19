@@ -1250,21 +1250,24 @@ header {
     color: #f94d42; }
 
 .blog-post .text-column {
-  margin-left: 25.58941%; }
-.blog-post h1, .blog-post img {
-  width: 150%;
-  margin-left: -25%; }
-.blog-post img.splash {
-  margin-bottom: 22px; }
-.blog-post small img {
-  width: 100%;
-  margin-left: 0; }
+  margin-left: 17.05961%; }
+.blog-post h1, .blog-post .splash {
+  margin-bottom: 22px;
+  margin-left: -25%;
+  width: 150%; }
+.blog-post p:first-of-type {
+  font-size: 22px;
+  line-height: 44px; }
+.blog-post img {
+  position: relative;
+  display: block;
+  margin: 0 auto; }
 
 .hero-cookie {
+  border-bottom: none;
   background: url(/images/wayne/ws-pdf-teaser3.png) no-repeat 322px 74px;
   -webkit-transition: background-position 0.3s ease;
-  transition: background-position 0.3s ease;
-  border-bottom: none; }
+  transition: background-position 0.3s ease; }
 
 .hero-cookie:hover {
   background-position: 322px  -50px; }

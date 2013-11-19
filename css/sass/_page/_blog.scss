@@ -34,21 +34,28 @@
 .blog-post {
 
 	.text-column {
-		@include shift(3);
+		@include shift(2);
 	}
 
-	h1, img {
-		width: 150%;
-		margin-left: -25%;
-	}
-
-	img.splash {
+	h1, .splash {
 		margin-bottom: $base;
+		margin-left: -25%;
+		width: 150%;
 	}
 
-	small img {
-		width: 100%;
-		margin-left: 0;
+	h2 {
+
+	}
+
+	p:first-of-type {
+		font-size: $base;
+		line-height: $base * 2;
+	}
+
+	img { 
+		position: relative; 
+		display: block;
+		margin: 0 auto;
 	}
 }
 
@@ -56,10 +63,10 @@
 // fun CTA trick
 
 .hero-cookie {
+	border-bottom: none;
 	background: url(/images/wayne/ws-pdf-teaser3.png) no-repeat 322px 74px;
 	-webkit-transition:background-position 0.3s ease;
 	transition:background-position 0.3s ease;
-	border-bottom: none;
 }
 
 .hero-cookie:hover {

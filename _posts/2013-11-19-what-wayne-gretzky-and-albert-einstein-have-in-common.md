@@ -23,7 +23,9 @@ The first and most obvious similarity is that both of them were at the top of th
 - He also gave forth explanation regarding the dynamics of individual moving bodies
 - And last, but not the least, he explained the nature of space and time
 
-<small>![your-legacy-einstein.jpg](/prose_media/your-legacy-einstein.jpg)</small>
+
+![your-legacy-einstein.jpg](/prose_media/your-legacy-einstein.jpg)
+
  
 ## Wayne Gretzky’s Awards and Accomplishments
 
@@ -58,7 +60,7 @@ Einstein had a similar yet uncanny ability to visualize. He began his theory of 
  
 ## Celebrity Status
 
-Einstein and Gretzky were both "rockstars" in their perspective fields.
+Einstein and Gretzky were both "rockstars" in their respective fields.
  
 Gretzky was and still is today a household name across the world. Everywhere he went - and goes - swarms of countless fans would appear wanting to catch a glimpse of "The Great One." He understood his responsibilities as a star and would not refuse an autograph request, "For that person, that kid, it could be the greatest thing that ever happened to him," Gretzky said.  He was involved in one of the biggest blockbuster and shocking trades in the history of professional sports when he was traded the LA Kings in 1998. His stardom also gave him the opportunity to host Saturday Night Live twice.  
  
