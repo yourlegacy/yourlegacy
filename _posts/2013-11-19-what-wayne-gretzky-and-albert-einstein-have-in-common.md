@@ -23,8 +23,7 @@ The first and most obvious similarity is that both of them were at the top of th
 - He also gave forth explanation regarding the dynamics of individual moving bodies
 - And last, but not the least, he explained the nature of space and time
 
-![your-legacy-einstein.jpg](/prose_media/your-legacy-einstein.jpg)
-
+<small>![your-legacy-einstein.jpg](/prose_media/your-legacy-einstein.jpg)</small>
  
 ## Wayne Gretzky’s Awards and Accomplishments
 
