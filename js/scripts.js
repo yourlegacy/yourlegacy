@@ -51,6 +51,11 @@ $(document).ready(function(){
 
 	// });
 
+	// Sticky Kit
+	//$("#sticky ul").stick_in_parent();
+
+	// Waypoints
+	$('#sticky').waypoint('sticky');
 });
 
 

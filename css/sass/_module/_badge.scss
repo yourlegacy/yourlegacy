@@ -1,0 +1,29 @@
+.badge,
+.badge-mini {
+	position: absolute;
+	width: 130px;
+	height: 130px;
+	text-align: center;
+	color: $white;
+	padding: 22px;
+	border-radius: 100px;
+	right: 512px;
+	top: $base;	
+}
+
+
+.badge-mini {
+	position: absolute;
+	width: $base * 4;
+	height: $base * 4;
+	text-align: center;
+	color: $white;
+	padding:($base * 1.5) $base;
+	border-radius: 100px;
+	right: 512px;
+	top: $base;	
+	// just for download page
+	margin-top: 22px;
+	left: 160px;
+	z-index: -10;
+}

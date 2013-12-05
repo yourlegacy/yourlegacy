@@ -1,1 +1,36 @@
-$border: 3px solid $black
+$border: 3px solid $black;
+$border--double: 3px double $black;
+
+// single border
+.border-top {
+	border-top: $border;
+}
+
+.border-right {
+	border-right: $border;
+}
+
+.border-bottom {
+	border-bottom: $border;
+}
+
+.border-left {
+	border-left: $border;
+}
+
+// double border
+.border-top--double {
+	border-top: $border--double;
+}
+
+.border-right--double {
+	border-right: $border--double;
+}
+
+.border-bottom--double {
+	border-bottom: $border--double;
+}
+
+.border-left--double {
+	border-left: $border--double;
+}

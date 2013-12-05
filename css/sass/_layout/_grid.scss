@@ -1,100 +1,225 @@
-// Default Positions
+// NATURAL BOX MODEL
 
-header, section, article, nav {
+*, *:before, *:after {
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box; 
+	box-sizing: border-box;
+}
+
+
+// CLEARFIX HACK
+
+.cf:before, .cf:after 
+.block-row:before, .block-row:after {
+    content: " ";
+    display: table;
+}
+
+.cf:after,
+.block-row:after {
+    clear: both;
+}
+
+
+// BODY WIDTH
+
+body {
+	min-width: 1100px;
+}
+
+
+// WRAPPER 
+
+.block-wrapper {
+	
+}
+
+
+// ROWS
+
+.block-row {
+	width: 1056px;
+	margin: 0 auto;
 	position: relative;
-	@include outer-container;
-	margin: $base auto;
-}
-
-.block {
-	display: block;
 }
 
 
-// Grid 
-.span-1 {
-	@include span-columns(1);
-}
+// COLUMN POSITION & SPACING
 
-.span-2 {
-	@include span-columns(2);
-}
-
-.span-3 {
-	@include span-columns(3);
-}
-
-.span-4 {
-	@include span-columns(4);
-}
-
-.span-5 {
-	@include span-columns(5);
-}
-
-.span-6 {
-	@include span-columns(6);
-}
-
-.span-7 {
-	@include span-columns(7);
-}
-
-.span-8 {
-	@include span-columns(8);
-}
-
-.span-9 {
-	@include span-columns(9);
-}
-
-.span-10 {
-	@include span-columns(10);
-}
-
-.span-11 {
-	@include span-columns(11);
-}
-
-.span-12 {
-	@include span-columns(12);
-}
-
-.inc-pad {
-	@include pad(); 
-}
-
-.table {
-	@include row(table);
-}
-
-.table-reset {
-	@include reset-display;
-}
-
-.omega {
-	@include omega();
-}
-
-.shift-3 {
-	@include shift(3);
-}
-
-.span-33,
-.span-66 {
+.block-col25, .block-col50,
+.block-col33, .block-col66,
+.block-col100 {
 	display: block;
 	float: left;
+	margin: $base 0;
+	padding: 0 ($base * 0.5);
 }
 
-.span-33 {
+.block-row > :first-child { 
+	padding-left: 0;
+}
+
+.block-row > :last-child { 
+	padding-right: 0;
+}
+
+.padding-large [class*="block-col"] {
+	padding: 0 ($base * 2);
+	margin: ($base * 4) 0;
+}
+
+.padding-large > [class*="block-col"]:first-child {
+	padding-left: ($base * 3);	
+}
+
+.padding-large > [class*="block-col"]:last-child {
+	padding-right: ($base * 3);	
+}
+
+.block-col-center {
+	margin-left: auto;
+	margin-right: auto;
+	float: none;
+}
+
+
+// COLUMN WIDTHS
+
+.block-col25  {
+	width: 25%;
+}
+
+.block-col50  {
+	width: 50%;
+}
+
+.block-col33  {
 	width: 33.33333333%;
 }
 
-.span-66 {
+.block-col66  {
 	width: 66.66666666%;
 }
 
-.span-100 {
+.block-col100 {
 	width: 100%;
 }
 
+
+// PADDING
+
+.padding-1 {
+	padding: $base;
+}
+
+.padding-2 {
+	padding: ($base * 2);
+}
+
+.padding-3 {
+	padding: ($base * 3);
+}
+
+.padding-4 {
+	padding: ($base * 4);
+}
+
+.padding-top {
+    padding-top: $base !important;
+}
+
+.padding-bottom {
+    padding-bottom: $base !important;
+}
+
+
+
+
+
+
+// OLD GRID
+
+
+// header, section, article, nav {
+// 	@include outer-container;
+// 	position: relative;
+// 	margin: 0 auto;
+// }
+
+// header {
+// 	padding-top: $base;
+// }
+
+// .block {
+// 	display: block;
+// }
+
+
+// // Grid 
+// .span-1 {
+// 	@include span-columns(1);
+// }
+
+// .span-2 {
+// 	@include span-columns(2);
+// }
+
+// .span-3 {
+// 	@include span-columns(3);
+// }
+
+// .span-4 {
+// 	@include span-columns(4);
+// }
+
+// .span-5 {
+// 	@include span-columns(5);
+// }
+
+// .span-6 {
+// 	@include span-columns(6);
+// }
+
+// .span-7 {
+// 	@include span-columns(7);
+// }
+
+// .span-8 {
+// 	@include span-columns(8);
+// }
+
+// .span-9 {
+// 	@include span-columns(9);
+// }
+
+// .span-10 {
+// 	@include span-columns(10);
+// }
+
+// .span-11 {
+// 	@include span-columns(11);
+// }
+
+// .span-12 {
+// 	@include span-columns(12);
+// }
+
+// .inc-pad {
+// 	@include pad(); 
+// }
+
+// .table {
+// 	@include row(table);
+// }
+
+// .table-reset {
+// 	@include reset-display;
+// }
+
+// .omega {
+// 	@include omega();
+// }
+
+// .shift-3 {
+// 	@include shift(3);
+// }

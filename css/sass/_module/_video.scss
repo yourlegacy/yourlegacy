@@ -1,15 +1,13 @@
 .video-container {
 	position: relative;
-		
-
 
 	.video-wrapper {	
 		position: relative;
 		padding-bottom: 54.25%;//41.3%;
 		padding-top: 22px;
 		height: 0;
-		margin: $base 0;
-		//@include span-columns(12);	
+		//margin: $base 0;
+		//@include span-columns(12);
 
 		iframe {
 			position: absolute;
@@ -40,8 +38,9 @@
 	}
 
 	.video-overlay.pre {
-		bottom: $base  * 5;
-		background: rgba($black,1);
+		bottom: $base  * 6;
+		background: rgba($green,1) url(/images/wayne/wayne-simmonds-interview.jpg) no-repeat center center;
+		background-size: cover;
 		margin-top: $base;
 	}
 

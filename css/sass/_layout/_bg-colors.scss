@@ -39,8 +39,6 @@
 	opacity: 0.95;
 }
 
-// gradients 
-body {
+.bg-gradient-gray {
 	@include linear-gradient(to bottom, $lightgray 60%, $lightgray-darken 100% );
-	background-attachment: fixed;
 }

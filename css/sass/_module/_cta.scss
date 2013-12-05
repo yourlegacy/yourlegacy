@@ -1,6 +1,6 @@
 .cta-button {
 	text-decoration: none; 
-	padding: $base $base * 4;
+	padding: $base $base * 2;
 	background: $gold;
 	color: $white;
 	display: inline-block;
@@ -14,7 +14,7 @@
 	position: relative;
 
 	.cta-button {
-		margin: $base 0 $base $base;
+		margin: $base 0;
 	}
 
 	.cta:hover .cta-button, .cta:focus .cta-button {
@@ -80,5 +80,3 @@
 		}
 	}
 }
-
-//.cta-button 
