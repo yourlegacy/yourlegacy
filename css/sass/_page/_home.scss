@@ -1,21 +1,18 @@
 .logo {
-	height: $base * 7;
-	margin: 0 auto;
 	display: block;
+	margin: 0 auto;
+	height: $base * 7;
 }
 
 header {
-	@include outer-container;
-	padding-bottom: $base;
 	position: relative;
 
 	hgroup {
-		@include span-columns(4);
 
 		.with {
 			@include transform(rotate(-90deg));
-			margin-top: $base * 1.5;
 			float: left;
+			margin-top: $base * 1.5;
 		}
 
 		.topic {
@@ -23,36 +20,36 @@ header {
 		}
 
 		b {
-			font-size: 114px;
 			position: absolute; 
 			top: 21px;
 			left: 97px;
 			color: rgba($darkgray, 0.3); //rgba($black, 0.4);
+			font-size: 114px;
 			
 		}
 
 		.video-cta {
-			width: 200px; 
+			position: relative;
+			display: block; 
 			margin: $base 0;
+			width: 200px;
 			height: $base * 5;
 			background: rgba($green,1) url(/images/wayne/wayne-simmonds-interview.jpg) no-repeat center center;
 			background-size: cover;
-			position: relative;
-			display: block;
 			transition: 0.5s;
 		}
 		
 		.play-button:before {
-			//circle 
-			position: absolute;
 			top: $base;
 			left: 67px;
+			//circle 
+			position: absolute;
 		}
 
 		.play-button:after {
+			left: 92px;
 			// play arrow
 			top: 39px;
-			left: 92px;
 		}
 
 		.video-cta:hover {
@@ -77,19 +74,13 @@ header {
 	}
 
 	.wayne-hero-image {
-		@include span-columns(5);
-		display: block;
-		margin-top: -100px;
+		margin-top: -83px;
 		margin-bottom: $base * -1;
 		margin-left: $base * -2;
-		position: relative;
-		z-index: 100;
 	}
 
 	aside {
-		@include span-columns(3);
 		margin-top: $base * 2;
-		margin-left: $base * 2;
 
 		.h4 {
 			margin-bottom: 0;
@@ -104,14 +95,9 @@ header {
 		@include transition (all 0.1s ease-in-out);
 	}
 }
+
 .video-overlay:hover {
 	.play-button {
 		@include transform(scale(1.75));
 	}
-}
-
-.wayne-offer-image {
-	background-image: url(../images/wayne/free-offers/wayne-simmonds-drew-doughty.jpg);
-	height: 397px;
-	background-size: cover;
 }

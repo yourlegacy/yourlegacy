@@ -12,9 +12,10 @@ $(document).ready(function(){
 	    return false;
 	});
 
+
 	// Popcorn
 	var videoInterview = Popcorn.youtube(
-		'#video-container',
+		'#wayne-interview',
 		'http://www.youtube.com/watch?v=zZ5XFYQf9rg'
 	);
 
@@ -35,27 +36,6 @@ $(document).ready(function(){
 	});
 	// fix bug of playing entire container in post
 
-	// Sticky
-	// var menuOffset = $('#sticky')[0].offsetTop;
-
-	// $(document).bind('ready scroll', function() {
-	//     var docScroll = $(document).scrollTop();
-
-	//     if (docScroll >= menuOffset) {
-	//         $('#sticky').addClass('fixed');
-	//         $('html').addClass('sticky-go');
-	//     } else {
-	//         $('#sticky').removeClass('fixed');            
-	//         $('html').removeClass('sticky-go');
-	//    }
-
-	// });
-
-	// Sticky Kit
-	//$("#sticky ul").stick_in_parent();
-
-	// Waypoints
-	$('#sticky').waypoint('sticky');
 });
 
 

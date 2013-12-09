@@ -1,0 +1,114 @@
+// hover default
+.hover:hover {
+	background: $red;
+	color: $white;
+}
+
+// text
+.gold,
+.hover-gold:hover {
+	color: $gold;
+}
+
+.red,
+.hover-red:hover {
+	color: $red;
+}
+
+.green,
+.hover-green:hover {
+	color: $green;
+}
+
+.purple,
+.hover-purple:hover {
+	color: $purple;
+}
+
+.red,
+.hover-red:hover {
+	color: $red;
+}
+
+.white,
+.hover-white:hover {
+    color: $white;
+}
+
+.lightgray,
+.hover-lightgray:hover {
+	color: $lightgray;
+}
+
+.darkgray,
+.hover-darkgray:hover {
+	color: $darkgray;
+}
+
+.black,
+.hover-black:hover {
+	color: $black;
+}
+
+.highlight-black {
+    display: inline-block; 
+    background: $black;
+}
+
+
+
+// backgrounds
+.bg-gold,
+.hover-bg-gold:hover {
+	background: $gold;
+}
+
+.bg-red,
+.hover-bg-red:hover {
+	background: $red;
+}
+
+.bg-green,
+.hover-bg-green:hover {
+	background: $green;
+}
+
+.bg-purple,
+.hover-bg-purple:hover {
+	background: $purple;
+}
+
+.bg-red,
+.hover-bg-red:hover {
+	background: $red;
+}
+
+.bg-white,
+.hover-bg-white:hover {
+    background: $white;
+}
+
+.bg-lightgray,
+.hover-bg-lightgray:hover {
+	background: $lightgray;
+}
+
+.bg-darkgray,
+.hover-bg-darkgray:hover {
+	background: $darkgray;
+}
+
+.bg-black,
+.hover-bg-black:hover {
+	background: $black;
+}
+
+.translucent {
+	opacity: 0.95;
+}
+
+.bg-gradient-gray {
+	@include linear-gradient(to bottom, $lightgray 60%, $lightgray-darken 100% );
+}
+
+

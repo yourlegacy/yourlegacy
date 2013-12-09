@@ -4,4 +4,15 @@
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+
+	.badge-mini {
+		z-index: 10;
+		left: $base * 2;
+		top: 0;
+	}
+
+	input[type="text"] {
+		border: 1px solid $purple;
+	}
 }
+

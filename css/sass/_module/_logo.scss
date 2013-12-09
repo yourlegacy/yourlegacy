@@ -1,0 +1,41 @@
+// logo font setup & classes
+[class^="yl-"], [class*=" yl-"] {
+	vertical-align: text-top;
+	text-transform: none;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-size: 22px;
+	font-family: 'YL-Logos';
+	line-height: 1;
+	speak: none;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.yl-intitials:before {
+	content: "\e600";
+}
+
+.yl-full:before {
+	content: "\e601";
+}
+
+.yl-url:before {
+	content: "\e602";
+}
+
+// logo rules
+.yl-mini {
+	display: block;
+	text-align: center;
+	font-size: $base * 2;
+}
+
+.yl-hero {
+	display: block;
+	text-align: center;
+	font-size: $base * 7;
+}

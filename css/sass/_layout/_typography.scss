@@ -3,6 +3,18 @@ $base: 22px;
 @font-face {
     font-weight: normal;
     font-style: normal;
+    font-family: 'YL-Logos';
+    src:url('/typefaces/YL-Logos.eot');
+    src:url('/typefaces/YL-Logos.eot?#iefix') format('embedded-opentype'),
+        url('/typefaces/typefaces/YL-Logos.ttf') format('truetype'),
+        url('/typefaces/YL-Logos.woff') format('woff'),
+        url('/typefaces/YL-Logos.svg#YL-Logos') format('svg');
+}
+
+
+@font-face {
+    font-weight: normal;
+    font-style: normal;
     font-family: 'franchiseregular';
     src: url('/typefaces/franchise-bold-webfont.eot');
     src: url('/typefaces/franchise-bold-webfont.eot?#iefix') format('embedded-opentype'),
@@ -15,10 +27,10 @@ html,
 body,
 input, 
 button {
-	font-weight: 300;
-	font-size: 15px;
-	line-height: $base;
-	color: $black;
+    color: $black;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: $base;
 }
 
 body,
@@ -33,8 +45,8 @@ h6, .h6 {
 h1, .h1, 
 h2, .h2,
 h5, .h5 {
-	font-weight: normal;
-	font-family: "franchiseregular", Impact, "Arial Narrow", sans-serif;
+    font-weight: normal;
+    font-family: "franchiseregular", Impact, "Arial Narrow", sans-serif;
 }
 
 h1, .h1, 
@@ -42,7 +54,7 @@ h2, .h2,
 h3, .h3,
 h4, .h4,
 h5, .h5 {
-	text-transform: uppercase;
+    text-transform: uppercase;
 }
 
 h3, .h3,
@@ -89,9 +101,9 @@ strong {
 }
 
 hr {
+    margin: ($base - 1.5) 0;
     border: none; 
     border-bottom: 3px solid $black;
-    margin: ($base - 1.5) 0;
 }
 
 ul {
@@ -122,30 +134,13 @@ a:hover {
 
 // MARGINS
 h1, h2, h3, h4, h5, h6, p, blockquote {
-	margin: 0 0 $base;
+    margin: 0 0 $base;
 }
 
 p:last-of-type,
 hgroup *, .hgroup * {
-	margin-bottom: 0;
+    margin-bottom: 0;
 }
-
-.margin-top {
-    margin-top: $base !important;
-}
-
-.margin-bottom {
-    margin-bottom: $base !important;
-}
-
-.margin-top-none {
-    margin-top: 0 !important;
-}
-
-.margin-bottom-none {
-    margin-bottom: 0 !important;
-}
-
 
 
 // HELPER CLASSES 
@@ -163,48 +158,11 @@ hgroup *, .hgroup * {
     text-align:right;
 }
 
-.intro {
+.lead {
     font-size: $base;
     line-height: 44px;
 }
 
-// colors
-.gold {
-	color: $gold;
-}
-
-.red {
-	color: $red;
-}
-
-.green {
-	color: $green;
-}
-
-.purple {
-	color: $purple;
-}
-
-.red {
-	color: $red;
-}
-
-.white {
-    color: $white;
-}
-
-.lightgray {
-	color: $lightgray;
-}
-
-.darkgray {
-	color: $darkgray;
-}
-
-.highlight-black {
-    display: inline-block; 
-    background: $black;
-}
 
 // ampersand
 .amp {

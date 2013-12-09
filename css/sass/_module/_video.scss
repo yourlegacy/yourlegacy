@@ -1,13 +1,11 @@
 .video-container {
 	position: relative;
 
-	.video-wrapper {	
+	.video-placeholder {	
 		position: relative;
-		padding-bottom: 54.25%;//41.3%;
+		padding-bottom: 54.25%;
 		padding-top: 22px;
 		height: 0;
-		//margin: $base 0;
-		//@include span-columns(12);
 
 		iframe {
 			position: absolute;
@@ -29,10 +27,6 @@
 		cursor: pointer;
 	}
 	
-	// .video-overlay:hover {
-	// 	background: rgba($black,0.85);
-	// }
-
 	.video-overlay.active {
 		display: block;
 	}
@@ -53,10 +47,4 @@
 	.video-overlay.post .post-roll {
 		display: inline-block;
 	}
-
-	.hgroup,
-	.addthis_toolbox {
-		//@include span-columns(12);		
-	}
-
 }

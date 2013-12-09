@@ -1,23 +1,52 @@
 {% include atrio-caput.html %}
 {% include corpus-caput.html %}
-{% include membra-nav.html %}
+{% include membra-nav-both.html %}
 
+<!-- 
+	<section class="article-hero">
+		<a class="skip h5 purple" href="#h1">Start Reading</a>
+		<img src="/images/articles/Sleeping-Your-Way-to-Success.jpg" alt="Sleeping Your Way to Success"/>
+		<h1 class="white" id="h1"><span class="h3">Sleeping Your Way to </span>Success</h1>
+	</section>
+ -->
 
-<section class="blog-post">
+<article class="wrapper">
 
-	<div class="text-column span-8">
+	<div class="grid">
+		<div class="g-12 pad-bottom-0">
 
-		<h1>{{ page.title }}</h1>
+			<h1 class="center">{{ page.title }}</h1>
 
-		<em class="author">by {{ page.author }}</em>
+			<p class="center margin-bottom"><em>by {{ page.author }}</em></p>
 
-		<img class="splash" src="{{ page.splash }}" alt="{{ page.title }}" />
+			<img class="block" src="{{ page.splash }}" alt="{{ page.title }}" />
+		</div>
+	</div>
+	<div class="grid">
+		<div class="g-8 g-center pad-top-0">
+			<p>
+				<div class="addthis_toolbox addthis_default_style">
+					<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+					<a class="addthis_button_tweet"></a>
+					<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+				</div>
+			</p>
 
-		{{ content }}
-	
+			{{ content }}
+
+			<p>
+				<div class="addthis_toolbox addthis_default_style">
+					<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+					<a class="addthis_button_tweet"></a>
+					<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+				</div>
+			</p>
+
+		</div>
 	</div>
 
-</section>
+</article>
+
 
 {% include corpus-pes.html %}
 {% include atrio-pes.html %}

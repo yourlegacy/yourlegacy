@@ -1,62 +1,3 @@
-.blog-list {
-
-	.blog-list-item {
-		@include span-columns(12);
-		margin-bottom: $base * 2;
-
-		
-		.post-teaser {
-			padding: $base;
-		}
-	}
-
-	.blog-list-item:hover {
-		//background: $red;
-		color: $white;
-		//opacity: 0.85;
-
-		.button {
-			background: $red;
-		}
-		.button:hover {
-			background: $white;
-			color: $red;
-		}
-	}
-}
-
-.blog-post {
-
-	.text-column {
-		@include shift(2);
-	}
-
-	h1, .splash {
-		margin-bottom: $base;
-		margin-left: -25%;
-		width: 150%;
-		text-align: center;
-	}
-
-	em {
-		margin-bottom: $base;
-		display: block;
-		text-align: center;
-	}
-
-	p:first-of-type {
-		font-size: $base;
-		line-height: $base * 2;
-	}
-
-	img { 
-		position: relative; 
-		display: block;
-		margin: 0 auto;
-	}
-}
-
-
 // fun CTA trick
 
 .hero-cookie {
@@ -71,5 +12,29 @@
 
 	h1, .logo {
 		opacity: 0.1;
+	}
+}
+
+
+.article-hero {
+
+	h1 {
+		margin: ($base * -8) $base ($base * 2);
+		padding-top: $base;
+	}
+
+	.skip {
+		position: relative;
+		top: $base;
+		z-index: 100;
+		display: block;
+		margin: 0 auto -98px;
+		padding: 28px $base $base;
+		width: 98px;
+		height: 98px;
+		border-radius: 100px;
+		background: $white;
+		text-align: center;
+		text-decoration: none;
 	}
 }
