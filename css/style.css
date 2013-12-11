@@ -1338,8 +1338,10 @@ header {
       margin-right: 0; }
 
 .wayne-purchase .hero {
-  background: transparent url(/images/wayne-simmonds.png) no-repeat bottom right;
+  background: white url(/images/wayne-simmonds.png) no-repeat bottom right;
   background-size: contain; }
+.wayne-purchase .wayne-cta {
+  display: none; }
 
 .wayne-formula {
   background: url(/images/wayne/wayne-simmonds-hockey.jpg) no-repeat center center;
