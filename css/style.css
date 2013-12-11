@@ -1241,7 +1241,7 @@ header {
     margin: 22px 0;
     width: 200px;
     height: 110px;
-    background: #1b971a url(/images/wayne/wayne-simmonds-interview.jpg) no-repeat center center;
+    background: white url(/images/wayne/wayne-simmonds-interview.jpg) no-repeat center center;
     background-size: cover;
     transition: 0.5s; }
   header hgroup .play-button:before {

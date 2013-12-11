@@ -34,7 +34,7 @@ header {
 			margin: $base 0;
 			width: 200px;
 			height: $base * 5;
-			background: rgba($green,1) url(/images/wayne/wayne-simmonds-interview.jpg) no-repeat center center;
+			background: $white url(/images/wayne/wayne-simmonds-interview.jpg) no-repeat center center;
 			background-size: cover;
 			transition: 0.5s;
 		}
