@@ -689,6 +689,9 @@ body {
 .g-right {
   float: right; }
 
+.hide {
+  display: none !important; }
+
 .centered-container {
   text-align: center; }
 
