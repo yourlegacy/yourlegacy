@@ -5,6 +5,7 @@
   box-sizing: border-box;
 }
 
+
 // disable fluidity
 .wrapper {
   min-width: 1100 + ($base * 4);
@@ -51,16 +52,7 @@ $grid-multiplier: 100% / $grid-columns;
 }
 
 
-// helper classes
-.block {
-  display: block;
-  width: 100%;
-}
-
-.inline-block {
-  display: inline-block;
-}
-
+// alignment
 .g-center {
   display: block;
   float: none;
@@ -70,6 +62,17 @@ $grid-multiplier: 100% / $grid-columns;
 
 .g-right {
   float: right;
+}
+
+
+// display options
+.block {
+  display: block;
+  width: 100%;
+}
+
+.inline-block {
+  display: inline-block;
 }
 
 .hide {
