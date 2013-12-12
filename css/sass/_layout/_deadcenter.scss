@@ -1,9 +1,9 @@
-.centered-container {
+.deadcentered-container {
 	text-align: center;	
 }
 
 // The ghost, nudged to maintain perfect centering
-.centered-container:before {
+.deadcentered-container:before {
 	content: '';
 	display: inline-block;
 	height: 100%;
@@ -12,7 +12,7 @@
 }
 
 // The element to be centered, can also be of any width and height
-.centered {
+.deadcentered {
 	display: inline-block;
 	vertical-align: middle;
 }
