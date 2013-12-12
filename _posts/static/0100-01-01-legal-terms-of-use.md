@@ -56,7 +56,7 @@ We may revise this disclaimer from time to time. The revised disclaimer will app
 
 ## Entire agreement
 
-Subject to the third paragraph of Section [5], this disclaimer, together with our privacy policy, constitutes the entire agreement between you and us in relation to your use of our website and supersedes all previous agreements in respect of your use of our website.
+This disclaimer, together with our privacy policy, constitutes the entire agreement between you and us in relation to your use of our website and supersedes all previous agreements in respect of your use of our website.
 
 ## Law and jurisdiction
 
