@@ -160,7 +160,7 @@ hgroup *, .hgroup * {
 
 .lead {
     font-size: $base;
-    line-height: 44px;
+    line-height: $base * 2;
 }
 
 
