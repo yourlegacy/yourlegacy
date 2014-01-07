@@ -50,9 +50,9 @@
 	color: $black;
 }
 
-.highlight-black {
-    display: inline-block; 
-    background: $black;
+.highlight {
+    padding-left: $base / 4;
+    padding-right: $base / 4;
 }
 
 
