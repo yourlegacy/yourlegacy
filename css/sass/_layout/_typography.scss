@@ -76,7 +76,7 @@ h3, .h3 {
 h4, .h4 {
     font-weight: 300; // TODO: test this
     font-size: $base;
-    line-height: $base; // TODO: test this
+    line-height: $base;
 }
 
 h5, .h5 {
@@ -161,6 +161,10 @@ hgroup *, .hgroup * {
 .lead {
     font-size: $base;
     line-height: $base * 2;
+}
+
+.bold {
+    font-weight: 700;
 }
 
 
