@@ -80,11 +80,16 @@ header {
 	}
 
 	aside {
-		margin-top: $base * 2;
+		margin-top: $base;
 
 		.h4 {
 			margin-bottom: 0;
 		}
+	}
+
+	// single cta
+	.schedule-thumb {
+		@include transform(rotate(7deg));
 	}
 }
 
