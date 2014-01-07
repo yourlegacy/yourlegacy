@@ -6,73 +6,7 @@
 
 header {
 	position: relative;
-
-	hgroup {
-
-		.with {
-			@include transform(rotate(-90deg));
-			float: left;
-			margin-top: $base * 1.5;
-		}
-
-		.topic {
-			position: relative;
-		}
-
-		b {
-			position: absolute; 
-			top: 21px;
-			left: 97px;
-			color: rgba($darkgray, 0.3); //rgba($black, 0.4);
-			font-size: 114px;
-			
-		}
-
-		.video-cta {
-			position: relative;
-			display: block; 
-			margin: $base 0;
-			width: 200px;
-			height: $base * 5;
-			background: $white url(/images/wayne/wayne-simmonds-interview.jpg) no-repeat center center;
-			background-size: cover;
-			transition: 0.5s;
-		}
-		
-		.play-button:before {
-			top: $base;
-			left: 67px;
-			//circle 
-			position: absolute;
-		}
-
-		.play-button:after {
-			left: 92px;
-			// play arrow
-			top: 39px;
-		}
-
-		.video-cta:hover {
-			@include transform(scale(1.2));
-			background: $red;
-		}
-
-		.video-cta:hover:before {
-			background: $white;
-		}
-
-		.video-cta:hover:after {
-			border-left-color: $red;
-		}
-
-
-		.simmonds, 
-		.video-cta, 
-		.watch {
-			margin-left: 64px;
-		}
-	}
-
+	
 	.wayne-hero-image {
 		margin-top: -83px;
 		margin-bottom: $base * -1;
