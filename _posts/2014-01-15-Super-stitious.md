@@ -43,7 +43,14 @@ Sometimes drinking your own urine seems like a good option, but only when it’s
 
 Why, you ask? Because he picked it up from his father who stated it helped to rid him of his cough. Does it work? Maybe, but Machida has had a storied legacy as a MMA fighter and was a former champ, so it seems like a yes. His father is also a qualified badass and martial artist. Next time you’re thirsty and unsuccessful, why not try drinking your own urine. It could change your life.   
  
+<img src="/prose_media/your-legacy-wayne-simmonds-interview.jpg" />
+
+## 5. Wearing The Same Tie - Wayne Simmonds 
+
+You might notice Wayne Simmonds is on the splash page. So clearly, he's a successful man. But what makes him so successful. Is it the years of hard work? Dedication to his craft? Natural athleticism combined with practice? Is it a rabbit's foot? Or maybe it's the fact that he wears the same tie everyday on a winning streak. It's probably not the latter but I'm not a scientist so I can't verify. Nonetheless, its still very superstitious. See, even NHL players are superstitious. 
+
+Maybe superstitions are real. Maybe they aren't. But most people think it helps, whether it's in sports, work or any other aspect in life. So why not take part and have your own superstition? What do you have to lose?
 
 ### Want to learn more about the superstitions of the successful?
 
-#### Grab <a class="red" href="http://yourlegacy.co/wayne-simmonds/">Wayne’s Simmond’s Guide to Tearing It Up</a> and learn all about his superstitions... and also the real reasons why he’s so dominant in the league.
+#### Grab <a class="red" href="http://yourlegacy.co/wayne-simmonds/">Wayne’s Simmond’s Guide to Tearing It Up</a> and learn all about his superstitions... and the real reasons why he’s so dominant in the league.
