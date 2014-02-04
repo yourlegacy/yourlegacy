@@ -94,6 +94,8 @@ blockquote {
     font-style: italic;
     font-size: $base;
     line-height: 44px;
+    padding-left: $base - 3;
+    border-left: 3px solid $lightgray;
 }
 
 strong {
