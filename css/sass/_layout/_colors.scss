@@ -51,8 +51,8 @@
 }
 
 .highlight {
-    padding-left: $base / 4;
     padding-right: $base / 4;
+    padding-left: $base / 4;
 }
 
 
@@ -109,6 +109,11 @@
 
 .bg-gradient-gray {
 	@include linear-gradient(to bottom, $lightgray 60%, $lightgray-darken 100% );
+}
+
+.bg-image { 
+	background-position: center center;
+	background-size: cover;
 }
 
 
