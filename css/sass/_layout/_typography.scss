@@ -112,9 +112,9 @@ ul {
     padding-left: $base * 2;
 }
 
-input[type="text"] {
-    padding: ($base * 0.5) $base 10px;
-    border: none;
+input[type="text"], textarea {
+    padding: (($base * 0.5) - 1) $base (($base * 0.5) - 2);
+    border: 1px solid $darkgray;
 }
 
 // LINKS
