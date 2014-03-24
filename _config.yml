@@ -1,4 +1,4 @@
-name: Your Legacy
+name: Your Legacy 
 baseurl: /
 url: http://yourlegacy.github.io/
 permalink: /:title
