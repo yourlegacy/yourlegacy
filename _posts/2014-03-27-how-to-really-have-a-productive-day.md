@@ -25,7 +25,7 @@ Next time you wake up, regardless of how much morning wood/lady wood you’ve go
 
 ## 2 - Quick Exercise Circuit
 
-![circuit.jpg](/prose_media/circuit.jpg)
+![circuitphoto.jpg](/prose_media/circuitphoto.jpg)
 
 Exercising first thing in the morning is rough. I don’t know how people go for 10k runs in the morning before having breakfast, or do fasted cardio.  When I step out of bed, I’m like Windows 8: I’m barely functioning. 
 
