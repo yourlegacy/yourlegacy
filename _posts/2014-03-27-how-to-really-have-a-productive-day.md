@@ -3,6 +3,7 @@ layout: blog
 published: true
 category: blog
 title: How to (Really) Have a Productive Day
+splash: "/prose_media/The-Art-of-Office-Productivity.png"
 ---
 
 Hey you! Ya, you. Come closer. Ok, now listen up.
@@ -11,7 +12,6 @@ Want to know how to be extremely productive? You think you’re already producti
 
 ![MCHAMMER.jpg](/prose_media/MCHAMMER.jpg)
 
-![The-Art-of-Office-Productivity.png](/prose_media/The-Art-of-Office-Productivity.png)
 1 -   Don’t Masturbate In The Morning
 
 “But Your Legacy, I don’t masturbate in the mornings!” said the boy and/or girl that cried wolf.
