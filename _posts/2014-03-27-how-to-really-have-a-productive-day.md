@@ -23,8 +23,6 @@ How many times have you burnt your eggs because your private parts needed attent
 Next time you wake up, regardless of how much morning wood/lady wood you’ve got, ignore it and just start your day.
 
 ![circuit.jpg](/prose_media/circuit.jpg)
-![iceicebaby.jpg](/prose_media/iceicebaby.jpg)
-
 
 ## 2 - Quick Exercise Circuit
 
@@ -37,7 +35,7 @@ According to science done by the University of Barcelona, coffee kicks in after 
 
 Bypass that and wake up with this mini-circuit. 
 
-	Insert Picture 3 - Jon Jones Image
+![iceicebaby.jpg](/prose_media/iceicebaby.jpg)
 
 ## 3 - Cold Shower
 
