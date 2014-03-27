@@ -12,7 +12,7 @@ Want to know how to be extremely productive? You think you’re already producti
 
 ![MCHAMMER.jpg](/prose_media/MCHAMMER.jpg)
 
-1 -   Don’t Masturbate In The Morning
+## 1 - Don’t Masturbate In The Morning
 
 “But Your Legacy, I don’t masturbate in the mornings!” said the boy and/or girl that cried wolf.
 
@@ -22,9 +22,11 @@ How many times have you burnt your eggs because your private parts needed attent
 
 Next time you wake up, regardless of how much morning wood/lady wood you’ve got, ignore it and just start your day.
 
-	Insert Picture 2 - Circuit Image
+![circuit.jpg](/prose_media/circuit.jpg)
+![iceicebaby.jpg](/prose_media/iceicebaby.jpg)
 
-2)      Quick Exercise Circuit
+
+## 2 - Quick Exercise Circuit
 
 Exercising first thing in the morning is rough. I don’t know how people go for 10k runs in the morning before having breakfast, or do fasted cardio.  When I step out of bed, I’m like Windows 8: I’m barely functioning. 
 
@@ -37,7 +39,7 @@ Bypass that and wake up with this mini-circuit.
 
 	Insert Picture 3 - Jon Jones Image
 
-3)      Cold Shower
+## 3 - Cold Shower
 
 There are countless studies that demonstrate the impacts of a cold shower: metabolism increase, muscular therapy, improved blood circulation and so much more. 
 
