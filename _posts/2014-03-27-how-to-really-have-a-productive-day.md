@@ -11,7 +11,7 @@ Want to know how to be extremely productive? You think you’re already producti
 
 ![MCHAMMER.jpg](/prose_media/MCHAMMER.jpg)
 
-
+![The-Art-of-Office-Productivity.png](/prose_media/The-Art-of-Office-Productivity.png)
 1 -   Don’t Masturbate In The Morning
 
 “But Your Legacy, I don’t masturbate in the mornings!” said the boy and/or girl that cried wolf.
@@ -45,5 +45,4 @@ For the sake of this article, I conducted a cold shower experiment, climbing int
 
 I concluded that, even without any health benefits, the freezing temperature hitting my naked, muscular & immaculate body (ladies…) immediately woke me up. It was similar to having a double shot of espresso.
 
-Another great thing about cold showers first thing in the morning: cuts out the needs to masturbate. 
-
+Another great thing about cold showers first thing in the morning: cuts out the needs to masturbate.
