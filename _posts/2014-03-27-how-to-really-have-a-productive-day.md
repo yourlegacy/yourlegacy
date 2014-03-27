@@ -4,6 +4,7 @@ published: true
 category: blog
 title: How to (Really) Have a Productive Day
 splash: "/prose_media/The-Art-of-Office-Productivity.png"
+author: Bobby Roshdi
 ---
 
 Hey you! Ya, you. Come closer. Ok, now listen up.
