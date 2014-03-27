@@ -11,8 +11,6 @@ Hey you! Ya, you. Come closer. Ok, now listen up.
 Want to know how to be extremely productive? You think you’re already productive, but here at Your Legacy, we’ve uncovered 3 simple steps that will increase your productivity so much that it’ll be like having a twin around. 
 
 ## 1 - Don’t Masturbate In The Morning
-### 1 - Don’t Masturbate In The Morning
-
 
 ![MCHAMMER.jpg](/prose_media/MCHAMMER.jpg)
 
