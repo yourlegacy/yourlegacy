@@ -10,9 +10,9 @@ Hey you! Ya, you. Come closer. Ok, now listen up.
 
 Want to know how to be extremely productive? You think you’re already productive, but here at Your Legacy, we’ve uncovered 3 simple steps that will increase your productivity so much that it’ll be like having a twin around. 
 
-![MCHAMMER.jpg](/prose_media/MCHAMMER.jpg)
-
 ## 1 - Don’t Masturbate In The Morning
+
+![MCHAMMER.jpg](/prose_media/MCHAMMER.jpg)
 
 “But Your Legacy, I don’t masturbate in the mornings!” said the boy and/or girl that cried wolf.
 
@@ -22,9 +22,9 @@ How many times have you burnt your eggs because your private parts needed attent
 
 Next time you wake up, regardless of how much morning wood/lady wood you’ve got, ignore it and just start your day.
 
-![circuit.jpg](/prose_media/circuit.jpg)
-
 ## 2 - Quick Exercise Circuit
+
+![circuit.jpg](/prose_media/circuit.jpg)
 
 Exercising first thing in the morning is rough. I don’t know how people go for 10k runs in the morning before having breakfast, or do fasted cardio.  When I step out of bed, I’m like Windows 8: I’m barely functioning. 
 
@@ -35,9 +35,9 @@ According to science done by the University of Barcelona, coffee kicks in after 
 
 Bypass that and wake up with this mini-circuit. 
 
-![iceicebaby.jpg](/prose_media/iceicebaby.jpg)
-
 ## 3 - Cold Shower
+
+![iceicebaby.jpg](/prose_media/iceicebaby.jpg)
 
 There are countless studies that demonstrate the impacts of a cold shower: metabolism increase, muscular therapy, improved blood circulation and so much more. 
 
