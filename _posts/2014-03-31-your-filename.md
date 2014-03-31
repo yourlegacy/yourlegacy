@@ -12,6 +12,8 @@ splash: "http://careergirlnetwork.com/wp-content/uploads/2013/11/Wake-up.jpg"
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
+![Wake-up.jpg](/prose_media/Wake-up.jpg)
+
 How do you wake up in the mornings? I bet that you don't wake up in the morning feeling like P Diddy, grabbing your glasses, heading out the door because you're going to hit the city. I bet it involves you waking up to a loud and annoying alarm going off and you lumbering like a zombie (or walker) to turn that alarm off, as if you not hitting snooze as soon as possible would lead to a bomb going off.
 
 Aren’t you tired of that? Don’t you want to wake up on your own terms. Wouldn't it be awesome if you could program yourself to wake up at any given time, without using an alarm?
