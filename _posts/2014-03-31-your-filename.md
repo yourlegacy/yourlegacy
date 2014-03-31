@@ -2,7 +2,7 @@
 layout: blog
 published: true
 category: blog
-title: ""
+title: How To Have A Restful Sleep and Wake Up Feeling Like A Million Bucks
 author: Bobby Roshdi
 ---
 
@@ -10,7 +10,6 @@ author: Bobby Roshdi
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
-How To Have A Restful Sleep and Wake Up Feeling Like A Million Bucks
 
 How do you wake up in the mornings? I bet it involves a loud and annoying alarm going off. Then it involves you lumbering like a zombie to turn that alarm off, as if you not hitting snooze as soon as possible would lead to a bomb going off.
 
