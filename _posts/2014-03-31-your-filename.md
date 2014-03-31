@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 category: blog
 title: How To Have A Restful Sleep and Wake Up Feeling Like A Million Bucks
 author: Bobby Roshdi
