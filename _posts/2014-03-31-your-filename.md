@@ -1,16 +1,11 @@
 ---
 layout: blog
-published: true
+published: false
 category: blog
 title: How To Have A Restful Sleep and Wake Up Feeling Like A Million Bucks
 author: Bobby Roshdi
 splash: "http://careergirlnetwork.com/wp-content/uploads/2013/11/Wake-up.jpg"
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
 
 ![Wake-up.jpg](/prose_media/Wake-up.jpg)
 
