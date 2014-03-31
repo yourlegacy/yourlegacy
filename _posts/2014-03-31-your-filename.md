@@ -3,6 +3,7 @@ layout: blog
 published: true
 category: blog
 title: ""
+author: Bobby Roshdi
 ---
 
 ## A New Post
