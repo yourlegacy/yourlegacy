@@ -11,6 +11,8 @@ How do you wake up in the mornings? I bet that you don't wake up in the morning 
 
 Aren’t you tired of that? Don’t you want to wake up on your own terms and feel like a million bucks? Wouldn't it be awesome if you could program yourself to wake up at any given time, without using an alarm?
 
+![ThorAlarm.jpg](/prose_media/ThorAlarm.jpg)
+
 I'd love to use my body as an alaram clock, but I’m not sure how to do it. Apparently, 1Plus12 CEO Glenn Estrabillio has identified 3 steps you can take to improve your sleep and wake up without an alarm, whenever you want.
 
 Estrabillio’s steps are simple. Remove all the electronics in your room, mentally select what time you want to wake up just as you’re nodding off and eliminate television (at least before you sleep because lets be honest, no one is missing [Game of Thrones](http://yourlegacy.co/Hodor-Bran-Stark-YL-Interview/#.UzmP6dx0UUs)).
