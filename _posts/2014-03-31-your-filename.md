@@ -2,7 +2,7 @@
 layout: blog
 published: true
 category: blog
-title: "How To Wake Up Feeling Awesome Without An Alarm Clock "
+title: "How To Wake Up Feeling Awesome "
 author: Bobby Roshdi
 splash: "http://careergirlnetwork.com/wp-content/uploads/2013/11/Wake-up.jpg"
 ---
