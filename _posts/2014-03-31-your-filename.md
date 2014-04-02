@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: true
+published: false
 category: blog
 title: "How To Wake Up Feeling Awesome "
 author: Bobby Roshdi
