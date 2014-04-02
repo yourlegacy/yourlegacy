@@ -2,16 +2,14 @@
 layout: blog
 published: true
 category: blog
-title: How To Have A Restful Sleep and Wake Up Feeling Like A Million Bucks
+title: "How To Wake Up Feeling Awesome Without An Alarm Clock "
 author: Bobby Roshdi
 splash: "http://careergirlnetwork.com/wp-content/uploads/2013/11/Wake-up.jpg"
 ---
 
-![Wake-up.jpg](/prose_media/Wake-up.jpg)
-
 How do you wake up in the mornings? I bet that you don't wake up in the morning feeling like P Diddy, grabbing your glasses, heading out the door because you're going to hit the city. I bet it involves you waking up to a loud and annoying alarm going off and you lumbering like a zombie (or walker) to turn that alarm off, as if you not hitting snooze as soon as possible would lead to a bomb going off.
 
-Aren’t you tired of that? Don’t you want to wake up on your own terms. Wouldn't it be awesome if you could program yourself to wake up at any given time, without using an alarm?
+Aren’t you tired of that? Don’t you want to wake up on your own terms and feel like a million bucks? Wouldn't it be awesome if you could program yourself to wake up at any given time, without using an alarm?
 
 I'd love to use my body as an alaram clock, but I’m not sure how to do it. Apparently, 1Plus12 CEO Glenn Estrabillio has identified 3 steps you can take to improve your sleep and wake up without an alarm, whenever you want.
 
