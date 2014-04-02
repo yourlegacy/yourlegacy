@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 category: blog
 title: How to (Really) Have a Productive Day...A Hands Free Experience
 splash: "/prose_media/The-Art-of-Office-Productivity.png"
