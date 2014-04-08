@@ -21,6 +21,4 @@ Estrabillio’s steps are simple. Remove all the electronics in your room, menta
 
 Make sure to check out Glenn’s [video](https://cr138.infusionsoft.com/app/linkClick/1581/1f555dadf79a4c47/25757/4603ca901b97ae85) for  detailed look at the 3 simple steps you can take to make these changes. 
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/ZXTKgJyJwm8" frameborder="0" allowfullscreen></iframe>
-
 Don't forget to let us know if his steps helped you wake up feeling like a million bucks.
