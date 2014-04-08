@@ -4,12 +4,12 @@ published: true
 category: blog
 title: How To Wake Up Feeling Awesome
 author: Bobby Roshdi
-splash: "![clock.jpg](/prose_media/clock.jpg)"
+splash: "/prose_media/clock.jpg"
 ---
 
-![kesha.jpg](/prose_media/kesha.jpg)
-
 How do you wake up in the mornings? I bet that you don't wake up in the morning feeling like P Diddy, grabbing your glasses, heading out the door because you're going to hit the city. I bet it involves you waking up to a loud and annoying alarm going off and you lumbering like a zombie (or walker) to turn that alarm off, as if you not hitting snooze as soon as possible would lead to a bomb going off.
+
+![kesha.jpg](/prose_media/kesha.jpg)
 
 Aren’t you tired of that? Don’t you want to wake up on your own terms and feel like a million bucks? Wouldn't it be awesome if you could program yourself to wake up at any given time, without using an alarm?
 
@@ -21,4 +21,4 @@ Estrabillio’s steps are simple. Remove all the electronics in your room, menta
 
 Make sure to check out Glenn’s [video](https://cr138.infusionsoft.com/app/linkClick/1581/1f555dadf79a4c47/25757/4603ca901b97ae85) for  detailed look at the 3 simple steps you can take to make these changes. 
 
-Don`t forget to let us know if his steps helped you wake up feeling like a million bucks.
+Don't forget to let us know if his steps helped you wake up feeling like a million bucks.
