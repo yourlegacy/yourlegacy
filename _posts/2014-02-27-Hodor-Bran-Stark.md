@@ -2,7 +2,7 @@
 layout: blog
 published: true
 category: blog
-title: Meet Hodor & Bran Stark from Game of Thrones
+title: "Meet Hodor & Bran Stark from Game of Thrones"
 splash: "/images/articles/your-legacy-bran-hodor-brandon-sinclair.jpg"
 author: Bobby Roshdi
 ---
