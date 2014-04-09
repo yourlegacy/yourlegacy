@@ -3,7 +3,7 @@ layout: blog
 published: false
 category: blog
 title: Untitled
-splash: "]![5simplesteps.jpg](/prose_media/5simplesteps.jpg)"
+splash: /prose_media/5simplesteps.jpg
 author: Justin Ianni
 ---
 
