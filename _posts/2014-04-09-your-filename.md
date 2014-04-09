@@ -3,11 +3,9 @@ layout: blog
 published: false
 category: blog
 title: Untitled
-splash: /prose_media/5simplesteps.jpg
+splash: /prose_media/hopscotch.jpg
 author: Justin Ianni
 ---
-
-
 
 ![hopscotch.jpg](/prose_media/hopscotch.jpg)
 
