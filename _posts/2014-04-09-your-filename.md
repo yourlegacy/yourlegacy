@@ -5,13 +5,6 @@ category: blog
 title: ""
 ---
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 We know, it’s a shocker - not everyone online cares about what you ate for lunch this afternoon. What your followers do care about is your business and how your products and services can benefit them; You can convert these followers into valuable leads...We’re here to show you how with these 5 simple steps!
 
