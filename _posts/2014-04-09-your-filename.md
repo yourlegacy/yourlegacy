@@ -11,14 +11,12 @@ We know, it’s a shocker - not everyone online cares about what you ate for lun
 
 ![1.jpg](/prose_media/1.jpg)
 
-
 1. Brand Your Profile Photo
 
 Your profile photo should be a consistent image of your brand. It should showcase your logo & designated brand colours so your viewers know the association with your brand as soon as they see it.
 
 ![2.jpg](/prose_media/2.jpg)
  
-
 2. Update your cover photo
 
 This is the first thing your viewers will see when they visit your page (it’s the largest image), all the more reason to make it the most impactful. You can leverage cover photo in two major ways: 
