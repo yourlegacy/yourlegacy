@@ -19,7 +19,8 @@ We know, it’s a shocker - not everyone online cares about what you ate for lun
 
 Your profile photo should be a consistent image of your brand. It should showcase your logo & designated brand colours so your viewers know the association with your brand as soon as they see it.
 
-Image 1 
+![2.jpg](/prose_media/2.jpg)
+ 
 
 2. Update your cover photo
 
