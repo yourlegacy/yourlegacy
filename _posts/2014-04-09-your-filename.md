@@ -10,6 +10,7 @@ author: Justin Ianni
 We know, it’s a shocker - not everyone online cares about what you ate for lunch this afternoon. What your followers do care about is your business and how your products and services can benefit them; You can convert these followers into valuable leads...We’re here to show you how with these 5 simple steps!
 
 ![1.jpg](/prose_media/1.jpg)
+![3.jpg](/prose_media/3.jpg)
 
 1. Brand Your Profile Photo
 
