@@ -24,7 +24,7 @@ This is the first thing your viewers will see when they visit your page (it’s 
 - Advertise your products or services and as a call to action (CTA).  
 
 Image 2
-sadasdsad
+
 
 3. Link your website URL in the “About” section of your profile
 
