@@ -23,7 +23,7 @@ This is the first thing your viewers will see when they visit your page (it’s 
 - Show the personality of your brand. 
 - Advertise your products or services and as a call to action (CTA).  
 
-Image 2
+Im 2
 
 
 3. Link your website URL in the “About” section of your profile
