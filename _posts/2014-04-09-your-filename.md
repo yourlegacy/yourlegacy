@@ -23,8 +23,7 @@ This is the first thing your viewers will see when they visit your page (it's th
 - Show the personality of your brand. 
 - Advertise your products or services and as a call to action (CTA).  
 
-Im 2n n n n
-
+Image
 
 3. Link your website URL in the “About” section of your profile
 
@@ -40,6 +39,6 @@ Image
 
 5. Stay Active
 
-Growing up, we've all been told what to do, whether it was from our parents or older siblings. The last thing your followers want is to be told to do something. Engage with your followers through your content, create conversation, and build relationships. If you can connect on a personal level, they’ll go where you want them to. If you demand them elsewhere, they will most likely move on. 
+Don’t wait for your customers to come to you - be ACTIVE. Whether it’s searching hashtags, replying to tweets or following new accounts within your industry or interests, you should always be creating activity online. This will help our brand build a social presence and an increase in followers…increase in followers = higher lead possibilities.
 
 Image
