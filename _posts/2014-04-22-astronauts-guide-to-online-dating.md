@@ -57,7 +57,7 @@ Chris Hadfield is basically the Canadian James Bond in Moonraker. If there’s o
 
 **Favourite Outfit**: A Spacesuit - mainly because it costs a ballerific $11 million. 
 
-**Favourite Song**: “My Goodies” by the Black Eyed Peas. If I’m in a space shuttle, I’d be listening to Drake’s “Hold on, we’re going home.” (NWTS Album Parody)
+**Favourite Song**: “My Goodies” by the Black Eyed Peas. If I’m in a space shuttle, I’d be listening to Drake’s “Hold on, we’re going home.”
 
 ![drake](/images/your-legacy-drake.jpg)
 
@@ -67,7 +67,7 @@ Space tourism is a reality. Flying around and checking out the Earth and moon ar
 
 ![stripper](/images/your-legacy-stripper.jpg)
 
-![ozone](/images/your-legacy-ozone.jpg)
+![ozone](/images/your-legacy-oZone.jpg)
 
 ![SolarFlare](/images/your-legacy-SolarFlare.jpg)
 
