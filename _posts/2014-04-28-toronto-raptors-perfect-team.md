@@ -2,19 +2,20 @@
 layout: blog
 published: true
 category: blog
-title: The Toronto Raptors - The Perfect Embodiment of Team
+title: The Perfect Embodiment of "Team"
 author: Eric Thompson
 splash: /images/articles/raptors/your-legacy-raptors-huddle.jpg
 ---
 
 For a city that is normally thrust into the national spotlight from the failings of it’s hockey team, Mayor, or Justin Bieber, the Raptor’s entry into the playoffs was a welcome sight for Torontonians. Thousands of fans packed into the Air Canada Center and Maple Leafs Square (appropriately renamed “Jurassic Park” by fans) to cheer on the hometown Raptors in their first playoff appearance in six years. Win or lose in the first round, everyone was simply happy to have a taste of playoff basketball.
 
-**Don’t be**.
+#### Don’t be.
 
 Raptors fans, don’t be happy just to be back in the playoffs. Don’t accept mediocrity because it’s all you’ve ever known. Yes, no one expected this team to make it anywhere this season. But just because you weren’t invited to the party, doesn’t mean you can’t leave with the prettiest girl (Note: I’ve never left with the prettiest girl).
-Here’s why Raptors fans should expect greatness out of this team:
 
-## This team is GOOD	
+## Here’s why Raptors fans should expect greatness out of this team
+
+#### This team is GOOD	
 
 The Raptors were in a hole to start the year at 6-12. By all accounts the team was on pace to draft Toronto native Andrew Wiggins 1st overall. 
 	  
@@ -22,20 +23,20 @@ The Raptors were in a hole to start the year at 6-12. By all accounts the team w
 
 Heck, they even lost their mascot to a torn Achilles! Luckily, they had Drake as a backup.
 
-![](/images/articles/raptors/your-legacy-toronto-rappers.jpg)
+![raptors](/images/articles/raptors/your-legacy-toronto-rappers.jpg)
 
 But then Masai Ujiri sent away forward and habitual ball-hog Rudy Gay, and like a fart leaving the room, the Raps could breathe again. 
 
-## The trade had a number of positive effects: 
+#### The trade had a number of positive effects: 
 
 - It created more offensive touches for the team 
 - It allowed more court time for budding star Terrence Ross, who has taken full advantage and become a better overall player 
 - Greivis Vasquez, Patrick Patterson and John Salmons came back the other way and instantly provided depth to a team lacking it 
-The team also saw improved frontcourt play by Amir Johnson and sophomore Jonas Valanciunas, who despite legal trouble earlier this month, looks focused and ready to wreak havoc.
-- Over the year, this scrappy bunch came together and learned how to win. Playing the defence first style that head coach Dwayne Casey preaches, much like a stripper at a club, they grinded... out wins. These were not just against bad teams, they went 16-14 against a much stronger Western Conference.  
-- By getting rid of players that didn’t buy into the system (Gay and Andrea Bargnani), the Raptors finally developed a team identity. 
-- It clearly worked as the Raptors became the Atlantic Division champs.  They also finished top 10 in points allowed, and top five shooting from the charity stripe. Not to mention they had the best fourth quarter point differential in the league. 
-- It’s a team that will win ugly, but a team that will win.
+The team also saw improved frontcourt play by Amir Johnson and sophomore Jonas Valanciunas, who despite legal trouble earlier this month, looks focused and ready to wreak havoc
+- Over the year, this scrappy bunch came together and learned how to win. Playing the defence first style that head coach Dwayne Casey preaches, much like a stripper at a club, they grinded... out wins. These were not just against bad teams, they went 16-14 against a much stronger Western Conference
+- By getting rid of players that didn’t buy into the system (Gay and Andrea Bargnani), the Raptors finally developed a team identity
+- It clearly worked as the Raptors became the Atlantic Division champs.  They also finished top 10 in points allowed, and top five shooting from the charity stripe. Not to mention they had the best fourth quarter point differential in the league
+- It’s a team that will win ugly, but a team that will win
 
 ## What You Can Learn From Masai Ujiri 
 
@@ -49,13 +50,13 @@ This strategy can also work with friends that waste your time or a negative infl
 
 Ask any 80-year-old lady you see on the bus why the Raptors are good this year. Chances are even she knows it starts with the play of Kyle Lowry and DeMar DeRozan. 
 
-![](/images/articles/raptors/your-legacy-bad-raps.jpg)
+![bad raps](/images/articles/raptors/your-legacy-bad-raps.jpg)
 
 DeRozan and Lowry both had career highs in points, rebounds and assists, while leading this team to a franchise record 48 wins. They have filled in the role of superstar that has been extinct since Chris Bosh’s departure in 2010.
 
 Lowry was rumoured to be on his way out too when Gay was traded, but instead of waiting for his number to be called, he elevated his play. Now signing Lowry for a contract extension is the ultimate goal for Ujiri and MLSE president Tim Leiweke. 
 
-![](/images/articles/raptors/your-legacy-lillowrythatcould.jpg)
+![lillowry](/images/articles/raptors/your-legacy-lillowrythatcould.jpg)
 
 Despite having neither having experience in the playoffs, this duo should continue to attack the (Brooklyn) net(s), and cause problems for any opponent they face. They have the ability to pick up the slack when the rest of the team needs it.
 
@@ -65,7 +66,7 @@ The expectation in the Eastern Conference was a finals matchup of Miami and Indi
 
 The defending champion Heat didn’t finish well either at 4-6. They are the 3rd worst rebounding team in the playoffs. Unlike philosophers, they aren’t deep. Dwyane Wade hasn’t been healthy since BlackBerry made the best phone on the market.  They rely on LeBron James to play like the best player on earth, every single night. If this Heat team does end up winning it all this year; it will be because James is in fact the greatest player of all time. If that’s the case, maybe he deserves a movie role...
 
-![](/images/articles/raptors/your-legacy-lebron-james.jpg)
+![space jam](/images/articles/raptors/your-legacy-lebron-james.jpg)
 
 Throw in the Rose-less Bulls and the aging Nets, and there is no reason the Raptors can’t come out of the East this season.
 Passion from the top down
@@ -82,7 +83,7 @@ Don’t be content if they lose out in six games. Don’t say “Brooklyn is mor
 
 ## Because honestly...
 
-![](/images/articles/raptors/your-legacy-batman.jpg)
+![batman](/images/articles/raptors/your-legacy-batman.jpg)
 
 For all those fans who came out to support the team in late April, when they had no chance of the playoffs and Ben Uzoh was the best man on the court. To all those fans who got burned, purchasing a Shawn Marion, Jermaine O’Neal or Jerryd Bayless jersey. To all those fans who convinced themselves guys like Sonny Weems or Linas Kleiza were good additions. After all the failures Toronto fans have had to endure (sorry Argos). 
 
