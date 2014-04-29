@@ -7,7 +7,7 @@ author: Eric Thompson
 splash: /images/articles/raptors/your-legacy-raptors-huddle.jpg
 ---
 
-For a city that is normally thrust into the national spotlight from the failings of it’s hockey team, Mayor, or Justin Bieber, the Raptor’s entry into the playoffs was a welcome sight for Torontonians. Thousands of fans packed into the Air Canada Center and Maple Leafs Square (appropriately renamed “Jurassic Park” by fans) to cheer on the hometown Raptors in their first playoff appearance in six years. Win or lose in the first round, everyone was simply happy to have a taste of playoff basketball.
+For a city that is normally thrust into the national spotlight for the failings of its hockey team, Mayor, or Justin Bieber, the Raptor’s entry into the playoffs was a welcome sight for Torontonians. Thousands of fans packed into the Air Canada Center and Maple Leafs Square (appropriately renamed “Jurassic Park” by fans) to cheer on the hometown Raptors in their first playoff appearance in six years. Win or lose in the first round, everyone was simply happy to have a taste of playoff basketball.
 
 #### Don’t be.
 
@@ -27,7 +27,7 @@ Heck, they even lost their mascot to a torn Achilles! Luckily, they had Drake as
 
 But then Masai Ujiri sent away forward and habitual ball-hog Rudy Gay, and like a fart leaving the room, the Raps could breathe again. 
 
-#### The trade had a number of positive effects: 
+#### The trade had a number of positive effects 
 
 - It created more offensive touches for the team 
 - It allowed more court time for budding star Terrence Ross, who has taken full advantage and become a better overall player 
@@ -42,9 +42,9 @@ The team also saw improved frontcourt play by Amir Johnson and sophomore Jonas V
 
 Jettison something that isn’t working for you and eliminate waste. You might not be a GM or Director of Operations and have the power to fire (or trade) colleagues or employees that don’t work or mesh well with your corporate culture, but what you can do is talk and be open. Express what’s working, what’s not working and how to compromise. If this doesn’t work, don’t depend on these people.  
 
-Like the Gay trade, having the right colleagues (or teammates) make a difference. You spend more time with these people than your family so you have to find the right balance between chemistry, skills and working ability. With the right team, everyone can play to each other’s strengths. Most people can work (and work well), but the thing is to get the right teammates that fit into the culture, corporate or otherwise.
+Like the Gay trade, having the right colleagues (or teammates) makes a difference. You spend more time with these people than your family so you have to find the right balance between chemistry, skills and working ability. With the right team, everyone can play to each other’s strengths. Most people can work (and work well), but the thing is to get the right teammates that fit into the culture, corporate or otherwise.
 
-This strategy can also work with friends that waste your time or a negative influence on your life.  
+This strategy can also work with friends that waste your time or have a negative influence on your life.  
 
 ## They actually have stars
 
@@ -64,7 +64,7 @@ Despite having neither having experience in the playoffs, this duo should contin
 
 The expectation in the Eastern Conference was a finals matchup of Miami and Indiana. But heading into the playoffs, neither team has looked as strong as billed. Indiana went 10-13 down the stretch, almost coughing up a #1 seed that seemed impossible to lose. Then they dropped their series opener to the Hawks in spectacularly ugly fashion. This Pacers team is falling apart at the wrong time.
 
-The defending champion Heat didn’t finish well either at 4-6. They are the 3rd worst rebounding team in the playoffs. Unlike philosophers, they aren’t deep. Dwyane Wade hasn’t been healthy since BlackBerry made the best phone on the market.  They rely on LeBron James to play like the best player on earth, every single night. If this Heat team does end up winning it all this year; it will be because James is in fact the greatest player of all time. If that’s the case, maybe he deserves a movie role...
+The defending champion Heat didn’t finish well either at 4-6. They are the 3rd worst rebounding team in the playoffs. Unlike philosophers, they aren’t deep. Dwyane Wade hasn’t been healthy since BlackBerry made the best phone on the market.  They rely on LeBron James to play like the best player on earth, every single night. If this Heat team does end up winning it all this year, it will be because James is in fact the greatest player of all time. If that’s the case, maybe he deserves a movie role...
 
 ![space jam](/images/articles/raptors/your-legacy-lebron-james.jpg)
 
