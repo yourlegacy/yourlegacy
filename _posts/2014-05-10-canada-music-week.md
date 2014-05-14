@@ -7,9 +7,7 @@ author: Bobby Roshdi
 splash: /images/articles/CMW2014.jpg
 ---
 
-Canadian Music Week (or CMW as the cool people like to call it) is one of the premier entertainment events in North America. Running from May 6 - 10, Canadian Music Week is a 5 night music, comedy and film festival, with award shows, workshops and conferences. 
-
-[Learn more about CMW](https://www.facebook.com/canadianmusicweek) 
+Canadian Music Week (or CMW as the cool people like to call it) is one of the premier entertainment events in North America. Running from May 6 - 10, Canadian Music Week is a 5 night music, comedy and film festival, with award shows, workshops and conferences. [Learn more about CMW](https://www.facebook.com/canadianmusicweek).
 
 Over 1,000 showcasing bands will be performing across 60 live music venues while showcasing international acts right here in Toronto. A special emphasis is placed on the business side of music, as conferences and a trade exhibition add a comprehensive look into the music industry and Canada’s biggest new music festival.
 
