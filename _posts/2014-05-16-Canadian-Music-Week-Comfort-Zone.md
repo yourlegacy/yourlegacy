@@ -31,8 +31,8 @@ But I was blown away by Dorine Levy as she was simply awesome. Coming through Te
 
 Next up was Jasmine Singh, another singer who was accompanied by a guitarist that resembled a musical Ryan Gosling. Together they put on an awesome show. They were nice enough to take a moment to chat and take a picture with me (Justin was a little camera shy). I almost asked fake Ryan Gosling for an autograph, but the rum hadn’t kicked in yet. 
 
-Image: your-legacy-bobby-pic.jpg	
-Caption: Jasmine Singh, Fake Ryan Gosling (Bryan Gosling?) & a not sober Bobby Roshdi
+![Your Legacy Bobby](/images/articles/cmw/your-legacy-bobby-pic.jpg)
+Jasmine Singh, Fake Ryan Gosling (Bryan Gosling?) & a not sober Bobby Roshdi
 
 
 Singh was supposed to be followed by STAMPS, another indie pop band, but they were a no show, like a vampire’s reflection of a mirror. This gave the audience, but really me, an hour to relax their ears as the bass had my head ringing like a 1980’s phone switchboard. I also got another rum and coke. 
@@ -42,7 +42,9 @@ Singh was supposed to be followed by STAMPS, another indie pop band, but they we
 
 Around 11pm, Anastasia A was up. A.A., as I and probably no one else calls her, did the longest set, which included 9 songs. I’m not going to lie; I met her before and listened to some of her songs. I’m a sucker for sappy love songs, and [“My Love”](https://www.youtube.com/watch?v=L1dG_gQr5_U) was my favourite going in. It had the vibe of Justin Timberlake’s “My Love” from a few years ago but without T.I. The song also made me want to experience being in love again as my heart was stirring like an overweight lady stirring cake mix. Jokes aside, it touched my heart and made me wish I could find true love. Unfortunately, there might be plenty of fish (in the sea or online), but they aren’t enticing. [Watch the video](https://www.youtube.com/watch?v=yQRVd767hAQ).
 
-Anastasia’s performance was the best of the night, as she rocked the set and had great stage presence and show(wo)manship. With the help of her backup singer Taya Marquis (with who I may or may not have a crush on), these two rocked the house. Or condo, because they were performing downtown. 
+Anastasia’s performance was the best of the night, as she rocked the set and had great stage presence and show(wo)manship. With the help of her backup singer Taya Marquis (with who I may or may not have a crush on), these two rocked the house. Or condo, because they were performing downtown.
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/yQRVd767hAQ" frameborder="0" allowfullscreen></iframe>
 
 I’m like 2Chainz, in the sense that when I talk, there is “No Lie.” I even yell “Truuuuuuu” after some statements, like “that shawarma was awesome. Truuuu.” And this showcase was truuuuly awesome.
 
